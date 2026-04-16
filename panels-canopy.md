@@ -4,9 +4,11 @@
 
 ## Description
 
-The canopy is the primary transparent enclosure on N657CZ. It is a blown acrylic panel, vacuum-formed to the compound curve of the cockpit opening. The canopy provides weather protection, aerodynamic fairing, and occupant visibility forward and to the sides. It is located above and aft of the instrument panel.
+The canopy is the primary transparent enclosure on N657CZ. It is a blown acrylic panel, vacuum-formed to the compound curve of the cockpit opening. The canopy provides weather protection, aerodynamic fairing, and occupant visibility forward and to the sides. It is located above and aft of the instrument panel and hinges on the right side.
 
-@@TOM: Confirm hinge location and opening direction (e.g., hinges on left side, swings up and right).
+The canopy is raised and lowered by an electric actuator. The actuator holds the canopy in any position — fully open, fully closed, or any intermediate position. It is controlled by a three-position switch, (OPEN)–OFF–(CLOSE), located at the IP. The switch is accessible from outside the aircraft through the aircraft access door on the left side of the fuselage, just aft of the IP. The access door is approximately 6 in. × 6 in. and has a keyed lock.
+
+A manual latch provides a secondary means of securing the canopy closed. The latch bar runs parallel to the canopy rail. To release: reach through the access door, grasp the latch bar, and slide it aft.
 
 ## Specifications
 
@@ -14,7 +16,10 @@ The canopy is the primary transparent enclosure on N657CZ. It is a blown acrylic
 |-----------|-------|
 | Material | Blown acrylic plastic |
 | Approximate dimensions | 30 in. wide × 48 in. long |
-| Latch mechanism | @@TOM: Describe latch mechanism and any safety latch. |
+| Hinge | Right side |
+| Opening mechanism | Electric actuator; three-position switch (OPEN)–OFF–(CLOSE) |
+| Secondary latch | Manual latch bar, parallel to canopy rail |
+| Actuator switch access | Aircraft access door, left side of fuselage, just aft of IP (approx. 6 in. × 6 in., keyed lock) |
 
 > **NOTE:** Acrylic plastic meets MIL-P-5425 (regular acrylic) or MIL-P-8184 (craze-resistant acrylic). Use equivalent acrylic material for any replacement panel. (AC 43.13, ch03_p018, ch03_p026)
 
@@ -34,7 +39,8 @@ Inspect the canopy at each condition inspection.
 **Seal and structure:**
 
 - **Canopy seal**: @@TOM: Describe seal type. Inspect for compression set, tears, gaps, or missing sections that would allow water intrusion or air leaks.
-- **Latch and hinge**: @@TOM: Describe latch inspection criteria — check for positive engagement, wear, and correct operation of any safety latch.
+- **Electric actuator**: Verify the canopy opens and closes smoothly on command and holds position without drifting. Check for unusual noise or hesitation during operation.
+- **Manual latch bar**: Check for free, smooth movement along the rail. Verify positive engagement and secure hold when latched closed. Inspect for corrosion, wear, or binding.
 
 ## Procedures
 
