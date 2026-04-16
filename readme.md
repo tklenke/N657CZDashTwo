@@ -37,6 +37,12 @@ This repository is designed to be served via **OtterWiki**, providing a searchab
 
 ---
 
-**License:** MIT
+## Disclaimer
 
-**Disclaimer:** *This manual is specific to N657CZ. Use as a template only; always refer to manufacturer-certified data for your specific components.*
+The information presented in this documentation is intended for reference purposes only. Users are responsible for verifying the accuracy and applicability of any information provided. The contributors to this wiki are not liable for any consequences resulting from the use or misuse of the information presented. Where information in this wiki is in conflict with FAA AC 43.13-1B, the Plans, the Corrections, or the Newsletters, those documents take precedence.
+
+This manual is specific to N657CZ. Use as a template only; always refer to manufacturer-certified data for your specific components.
+
+---
+
+**License:** MIT
