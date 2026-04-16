@@ -6,136 +6,136 @@ This manual covers inspection and maintenance procedures for N657CZ, a Cozy Mark
 
 ## 1. General Information
 
-- [[/?do=recent|Record of Revisions]]
-- [[readme|README]]
-- [[manual-standards|Manual Standards]]
+- [[Record of Revisions|/?do=recent]]
+- [[README|readme]]
+- [[Manual Standards|manual-standards]]
 
 ## 2. Safety Precautions
 
-- [[safety-composite-materials|Composite Material Hazards]]
-- [[safety-electrical|Electrical Safety]]
-- [[safety-fire-and-fuel|Fire and Fuel Hazards]]
-- [[safety-fluids-and-chemicals|Fluids and Chemicals]]
-- [[safety-general-shop|General Shop Safety]]
+- [[Composite Material Hazards|safety-composite-materials]]
+- [[Electrical Safety|safety-electrical]]
+- [[Fire and Fuel Hazards|safety-fire-and-fuel]]
+- [[Fluids and Chemicals|safety-fluids-and-chemicals]]
+- [[General Shop Safety|safety-general-shop]]
 
 ## 3. Aircraft General
 
-- [[aircraft-general-layout|General Layout and Configuration]]
-- [[aircraft-dimensions-and-weight|Aircraft Dimensions and Weight]]
-- [[aircraft-systems-overview|Systems Overview]]
+- [[General Layout and Configuration|aircraft-general-layout]]
+- [[Aircraft Dimensions and Weight|aircraft-dimensions-and-weight]]
+- [[Systems Overview|aircraft-systems-overview]]
 
 ## 4. Weight and Balance
 
-- [[wb-ballast-and-weight-management|Ballast and Weight Management]]
-- [[wb-equipment-list|Equipment List]]
-- [[wb-calculation|W&B Calculation]]
-- [[wb-weighing-procedures|Weighing Procedures]]
+- [[Ballast and Weight Management|wb-ballast-and-weight-management]]
+- [[Equipment List|wb-equipment-list]]
+- [[W&B Calculation|wb-calculation]]
+- [[Weighing Procedures|wb-weighing-procedures]]
 
 ## 5. Ground Handling
 
-- [[ground-handling-jacking-and-leveling|Jacking and Leveling]]
-- [[ground-handling-storage|Storage]]
-- [[ground-handling-tiedown-and-parking|Tiedown and Parking]]
-- [[ground-handling-towing|Towing Procedures]]
+- [[Jacking and Leveling|ground-handling-jacking-and-leveling]]
+- [[Storage|ground-handling-storage]]
+- [[Tiedown and Parking|ground-handling-tiedown-and-parking]]
+- [[Towing Procedures|ground-handling-towing]]
 
 ## 6. Servicing
 
-- [[servicing|Servicing]]
-- [[servicing-lubrication|Lubrication]]
+- [[Servicing|servicing]]
+- [[Lubrication|servicing-lubrication]]
 
 ## 7. Inspection
 
-- [[inspection-annual-condition|Annual Condition Inspection]]
-- [[inspection-post-cross-country|Post-Cross-Country Check]]
-- [[inspection-periodic|Periodic Check]]
+- [[Annual Condition Inspection|inspection-annual-condition]]
+- [[Post-Cross-Country Check|inspection-post-cross-country]]
+- [[Periodic Check|inspection-periodic]]
 
 ## 8. Structures
 
-- [[structures-airframe-components|Airframe Structural Components]]
-- [[structures-composite-construction|Composite Construction]]
-- [[structures-structural-inspection|Structural Inspection]]
-- [[structures-structural-repair|Structural Repair]]
+- [[Airframe Structural Components|structures-airframe-components]]
+- [[Composite Construction|structures-composite-construction]]
+- [[Structural Inspection|structures-structural-inspection]]
+- [[Structural Repair|structures-structural-repair]]
 
 ## 9. Canopy and Panels
 
-- [[panels-armrests|Armrests]]
-- [[panels-canopy|Canopy]]
-- [[panels-canopy-access-door|Canopy Access Door]]
-- [[panels-cowling|Cowling]]
-- [[panels-firewall-cover|Firewall Cover Panel]]
-- [[panels-ip-access-panel|Instrument Panel (IP) Access Panel]]
-- [[panels-nose-cone|Nose Cone]]
-- [[panels-turtleback-windows|Turtleback Windows]]
+- [[Armrests|panels-armrests]]
+- [[Canopy|panels-canopy]]
+- [[Canopy Access Door|panels-canopy-access-door]]
+- [[Cowling|panels-cowling]]
+- [[Firewall Cover Panel|panels-firewall-cover]]
+- [[Instrument Panel (IP) Access Panel|panels-ip-access-panel]]
+- [[Nose Cone|panels-nose-cone]]
+- [[Turtleback Windows|panels-turtleback-windows]]
 
 ## 10. Cargo and Cabin Systems
 
-- [[cabin-baggage-and-cargo|Baggage and Cargo Area]]
-- [[cabin-interior|Cabin Interior]]
-- [[cabin-oxygen-system|Oxygen System]]
-- [[cabin-seats-and-harness|Seats and Harness]]
+- [[Baggage and Cargo Area|cabin-baggage-and-cargo]]
+- [[Cabin Interior|cabin-interior]]
+- [[Oxygen System|cabin-oxygen-system]]
+- [[Seats and Harness|cabin-seats-and-harness]]
 
 ## 11. Emergency Equipment
 
-- [[emergency-elt|Emergency Locator Transmitter (ELT)]]
-- [[emergency-fire-extinguisher|Fire Extinguisher]]
-- [[emergency-survival-equipment|Survival Equipment]]
+- [[Emergency Locator Transmitter (ELT)|emergency-elt]]
+- [[Fire Extinguisher|emergency-fire-extinguisher]]
+- [[Survival Equipment|emergency-survival-equipment]]
 
 ## 12. Flight Controls
 
-- [[flight-controls-ailerons|Ailerons]]
-- [[flight-controls-canard-and-elevators|Canard and Elevators]]
-- [[flight-controls-landing-brake|Landing Brake]]
-- [[flight-controls-rudders|Rudders]]
+- [[Ailerons|flight-controls-ailerons]]
+- [[Canard and Elevators|flight-controls-canard-and-elevators]]
+- [[Landing Brake|flight-controls-landing-brake]]
+- [[Rudders|flight-controls-rudders]]
 
 ## 13. Landing Gear and Brake System
 
-- [[landing-gear-brake-system|Brake System]]
-- [[landing-gear-main|Main Landing Gear]]
-- [[landing-gear-nose|Nose Gear]]
+- [[Brake System|landing-gear-brake-system]]
+- [[Main Landing Gear|landing-gear-main]]
+- [[Nose Gear|landing-gear-nose]]
 
 ## 14. Power Plant
 
-- [[powerplant-alternators|Alternators]]
-- [[powerplant-cooling-system|Cooling System]]
-- [[powerplant-engine|Engine]]
-- [[powerplant-ignition-system|Ignition System]]
-- [[powerplant-oil-system|Oil System]]
-- [[powerplant-propeller|Propeller]]
+- [[Alternators|powerplant-alternators]]
+- [[Cooling System|powerplant-cooling-system]]
+- [[Engine|powerplant-engine]]
+- [[Ignition System|powerplant-ignition-system]]
+- [[Oil System|powerplant-oil-system]]
+- [[Propeller|powerplant-propeller]]
 
 ## 15. Fuel System
 
-- [[fuel-filters|Filters]]
-- [[fuel-grounding|Grounding]]
-- [[fuel-level-sensors|Level Sensors]]
-- [[fuel-lines-and-ports|Lines and Ports]]
-- [[fuel-pumps-and-valves|Pumps and Valves]]
-- [[fuel-tank-caps|Tank Caps]]
-- [[fuel-tanks|Tanks]]
-- [[fuel-vents-and-drains|Vents and Drains]]
+- [[Filters|fuel-filters]]
+- [[Grounding|fuel-grounding]]
+- [[Level Sensors|fuel-level-sensors]]
+- [[Lines and Ports|fuel-lines-and-ports]]
+- [[Pumps and Valves|fuel-pumps-and-valves]]
+- [[Tank Caps|fuel-tank-caps]]
+- [[Tanks|fuel-tanks]]
+- [[Vents and Drains|fuel-vents-and-drains]]
 
 ## 16. Electrical System
 
-- [[electrical-batteries|Batteries]]
-- [[electrical-bus-architecture|Bus Architecture]]
-- [[electrical-circuit-protection|Circuit Protection]]
-- [[electrical-lighting|Lighting]]
-- [[electrical-switches-and-controls|Switches and Controls]]
-- [[electrical-wiring|Wiring]]
+- [[Batteries|electrical-batteries]]
+- [[Bus Architecture|electrical-bus-architecture]]
+- [[Circuit Protection|electrical-circuit-protection]]
+- [[Lighting|electrical-lighting]]
+- [[Switches and Controls|electrical-switches-and-controls]]
+- [[Wiring|electrical-wiring]]
 
 ## 17. Avionics
 
-- [[avionics-adahrs|ADAHRS (GSU 25C)]]
-- [[avionics-audio-panel|Audio Panel (GMA 245R)]]
-- [[avionics-autopilot|Autopilot]]
-- [[avionics-engine-data-acquisition|Engine Data Acquisition (GEA 24)]]
-- [[avionics-g5-backup-instrument|G5 Backup Instrument]]
-- [[avionics-gdu-460-pfd|GDU 460 PFD]]
-- [[avionics-gps-and-navigation|GPS and Navigation (GNC 355)]]
-- [[avionics-magnetometer|Magnetometer (GMU 11)]]
-- [[avionics-transponder-adsb|Transponder and ADS-B (GTX 45R)]]
-- [[avionics-vhf-communication|VHF Communication (GTR 20)]]
+- [[ADAHRS (GSU 25C)|avionics-adahrs]]
+- [[Audio Panel (GMA 245R)|avionics-audio-panel]]
+- [[Autopilot|avionics-autopilot]]
+- [[Engine Data Acquisition (GEA 24)|avionics-engine-data-acquisition]]
+- [[G5 Backup Instrument|avionics-g5-backup-instrument]]
+- [[GDU 460 PFD|avionics-gdu-460-pfd]]
+- [[GPS and Navigation (GNC 355)|avionics-gps-and-navigation]]
+- [[Magnetometer (GMU 11)|avionics-magnetometer]]
+- [[Transponder and ADS-B (GTX 45R)|avionics-transponder-adsb]]
+- [[VHF Communication (GTR 20)|avionics-vhf-communication]]
 
 ## 18. Heating and Ventilating
 
-- [[hvac-heat-system|Heat System]]
-- [[hvac-ventilation|Ventilation]]
+- [[Heat System|hvac-heat-system]]
+- [[Ventilation|hvac-ventilation]]
