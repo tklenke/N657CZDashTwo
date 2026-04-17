@@ -22,22 +22,22 @@ Generic shop safety content is excluded. Composite material hazards are included
 
 Three pages:
 
-- 3.1 General Layout and Configuration
-- 3.2 Aircraft Dimensions and Weight
-- 3.3 Systems Overview
+- General Layout and Configuration
+- Aircraft Dimensions and Weight
+- Systems Overview
 
 Systems Overview gives a maintainer context before diving into individual systems. A high-level summary with cross-references reduces the chance of someone working on a system without understanding how it fits into the whole.
 
 ---
 
-## Section 4: Ground Handling
+## Section 5: Ground Handling
 
 Four pages:
 
-- 4.1 Towing Procedures
-- 4.2 Jacking and Leveling
-- 4.3 Tiedown and Parking
-- 4.4 Storage
+- Towing Procedures
+- Jacking and Leveling
+- Tiedown and Parking
+- Storage
 
 Storage is a maintenance task in its own right (fuel stabilizer, pitot cover, control locks, etc.).
 
