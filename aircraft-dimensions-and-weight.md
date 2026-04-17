@@ -6,6 +6,7 @@ Specifications for the Cozy Mark IV (N657CZ).
 
 | Parameter | Value |
 |-----------|-------|
+| Seats | 4 |
 | Wing Span | 28.1 ft |
 | Canard Span | 11.5 ft |
 | Total Wing Area | 101.4 sq. ft. |
