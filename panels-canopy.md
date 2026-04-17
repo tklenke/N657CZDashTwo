@@ -1,7 +1,5 @@
 # Canopy
 
-[TOC]
-
 ## Description
 
 The canopy is the primary transparent enclosure on N657CZ. It is a blown acrylic panel, vacuum-formed to the compound curve of the cockpit opening. The canopy provides weather protection, aerodynamic fairing, and occupant visibility forward and to the sides. It is located above and aft of the instrument panel and hinges on the right side.
