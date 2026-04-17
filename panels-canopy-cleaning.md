@@ -1,10 +1,8 @@
 # Canopy Cleaning
 
-[TOC]
-
 ## Overview
 
-This procedure covers routine cleaning and polishing of the canopy. Clean the canopy whenever surface contamination is present and after any flight that deposits insects, oil, or exhaust residue on the surface.
+This procedure covers routine cleaning and polishing of the canopy. Clean the canopy whenever surface contamination is present and after any flight that deposits insects or other residue on the surface.
 
 > **NOTE:** This procedure also applies to the turtleback windows. See [[Turtleback Windows|panels-turtleback-windows]].
 
