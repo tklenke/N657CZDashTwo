@@ -22,7 +22,7 @@ Each fuel tank is equipped with a Stewart Warner 385B resistive fuel level sende
 Inspect the fuel level senders at each condition inspection.
 
 - **Fuel leaks**: Inspect the mounting flange and gasket for fuel staining or seepage. Any wetness at the flange requires investigation before further flight.
-- **Wire condition**: Check the 3-pin connector and wire leads for chafing, corrosion, or loose connections.
+- **Wire condition**: Check the connector and wire leads for chafing, corrosion, or loose connections. @@TOM: verify connector pin count and wire colors at aircraft.
 - **Function**: Verify the EMS displays a fuel quantity reading for each tank consistent with known fuel state.
 
 ## Procedures
