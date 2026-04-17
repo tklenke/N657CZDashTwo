@@ -4,6 +4,11 @@ This page is the authoritative reference for how this manual is organized and wh
 
 For decisions specific to individual sections, see [[Section Notes|section-notes]].
 
+For writing and formatting standards, see:
+- [[Writing Style|writing-style]] — voice, tense, and language rules
+- [[Formatting|formatting]] — page naming, NOTE callouts, citations, cross-references
+- [[Page Templates|page-templates]] — standard page structures by page type
+
 ---
 
 ## Manual Scope
