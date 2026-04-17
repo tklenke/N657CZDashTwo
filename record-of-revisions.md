@@ -6,7 +6,13 @@ This manual is maintained as a git repository. Every change to every page is rec
 
 Every page of this manual displays a footer when printed showing the date the page was last edited. This date is derived from the git commit that recorded the most recent change to that page.
 
-When working from a printed copy, check the footer date before performing any procedure. If the footer date is older than the most recent update to this manual, verify the content against the current online version before proceeding.
+When working from a printed copy, check the footer date before performing any procedure. To verify the printed copy is current, compare the footer date against the most recent commit for that page:
+
+```
+git log -1 --format="%ci %s" -- panels-canopy.md
+```
+
+Replace `panels-canopy.md` with the filename of the page (the page name in the URL with `.md` appended). If the commit date is newer than the footer date, the printed copy is out of date — review the current online version before proceeding.
 
 ## Recent Changes View
 
