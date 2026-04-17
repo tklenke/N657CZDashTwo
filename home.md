@@ -6,7 +6,7 @@ This manual covers inspection and maintenance procedures for N657CZ, a Cozy Mark
 
 ## 1. General Information
 
-- [[Record of Revisions|/?do=recent]]
+- [[Record of Revisions|record-of-revisions]]
 - [[README|readme]]
 - [[Manual Standards|manual-standards]]
 
