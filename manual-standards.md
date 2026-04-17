@@ -22,26 +22,6 @@ See [[Record of Revisions|record-of-revisions]] for how to interpret revision hi
 
 ---
 
-## Alternators: Power Plant, Not Electrical
-
-Alternator maintenance procedures live in Section 14 (Power Plant), not Section 16 (Electrical System). Section 16 includes a cross-reference pointer to Section 14.
-
-Alternators are engine-driven mechanical components. Their maintenance (belt tension, brush inspection, output testing) is physically performed at the engine. The electrical section covers distribution and consumption of power after it is generated, not the generation hardware itself.
-
----
-
-## Panel and Cover Removal Procedures Live in Section 9
-
-Removal and installation procedures for all panels and covers are in Section 9 (Canopy and Panels). Other sections that reference those panels include a cross-reference pointer rather than duplicating the procedure.
-
-Single source of truth for panel procedures. A maintainer working on cabin access or firewall components should not have to reconcile two versions of the same removal steps.
-
-**Examples:**
-- Cabin Interior (Section 10) links to Armrests and Firewall Cover Panel in Section 9
-- Any section requiring instrument panel access links to IP Access Panel in Section 9
-
----
-
 ## TOC Depth: Component-Specific Procedures Are Not Listed
 
 Type 2 Procedure pages that are specific to a single component are not listed in the TOC. They are accessed through their parent component's Type 1b page.

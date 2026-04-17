@@ -100,6 +100,26 @@ The annual condition inspection is kept as a single page (not broken into sub-pa
 
 ---
 
+## Section 9: Panel and Cover Removal Procedures
+
+Removal and installation procedures for all panels and covers are in Section 9 (Canopy and Panels). Other sections that reference those panels include a cross-reference pointer rather than duplicating the procedure.
+
+Single source of truth for panel procedures. A maintainer working on cabin access or firewall components should not have to reconcile two versions of the same removal steps.
+
+**Examples:**
+- Cabin Interior (Section 10) links to Armrests and Firewall Cover Panel in Section 9
+- Any section requiring instrument panel access links to IP Access Panel in Section 9
+
+---
+
+## Section 14: Alternators Belong Here, Not in Electrical
+
+Alternator maintenance procedures live in Section 14 (Power Plant), not Section 16 (Electrical System). Section 16 includes a cross-reference pointer to Section 14.
+
+Alternators are engine-driven mechanical components. Their maintenance (belt tension, brush inspection, output testing) is physically performed at the engine. The electrical section covers distribution and consumption of power after it is generated, not the generation hardware itself.
+
+---
+
 ## Section 17: Avionics (Instruments Folded In)
 
 Section 15 (Instruments) is eliminated. Instrument content is covered in Section 17 (Avionics).
