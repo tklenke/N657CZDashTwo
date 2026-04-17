@@ -16,7 +16,7 @@ Replace `panels-canopy.md` with the filename of the page (the page name in the U
 
 ## Recent Changes View
 
-The [[Recent Changes|/?do=recent]] view lists all edits across the entire manual — every page changed, when it was changed, and the description of what changed.
+The [[Recent Changes|/changelog]] view lists all edits across the entire manual — every page changed, when it was changed, and the description of what changed.
 
 Use this view to:
 
