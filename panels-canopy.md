@@ -4,7 +4,7 @@
 
 The canopy is the primary transparent enclosure on N657CZ. It is a blown acrylic panel, vacuum-formed to the compound curve of the cockpit opening. The canopy provides weather protection, aerodynamic fairing, and occupant visibility forward and to the sides. It is located above and aft of the instrument panel and hinges on the right side.
 
-The canopy is raised and lowered by an electric actuator. The actuator holds the canopy in any position — fully open, fully closed, or any intermediate position. It is controlled by a three-position switch, (OPEN)–OFF–(CLOSE), located at the IP. The switch is accessible from outside the aircraft through the canopy access door on the left side of the fuselage, just aft of the instrument panel. 
+The canopy is raised and lowered by an electric actuator. The actuator holds the canopy in any position — fully open, fully closed, or any intermediate position. It is controlled by a three-position switch, (OPEN)–OFF–(CLOSE), located at the Instrument Panel (IP). The switch is accessible from outside the aircraft through the canopy access door on the left side of the fuselage, just aft of the instrument panel. 
 
 A manual latch provides a secondary means of securing the canopy closed. The latch bar runs parallel to the canopy rail. To release: reach through the canopy access door, grasp the latch bar, and slide it aft.
 
