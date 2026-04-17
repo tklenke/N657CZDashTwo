@@ -12,7 +12,7 @@ For CG calculations from the recorded weights and moment arms, see [[W&B Calcula
   - @@TOM: Source scales (EAA chapter loan or equivalent). Required accuracy: 0.1% or better, giving resolution of 0.5–1 lb on a 500–1000 lb load.
 - Wooden drive-up ramps (one per scale) to bring scale platform flush with the hangar floor
   - @@TOM: Ramps not yet built. Design to bring scale surface to floor level so aircraft can be taxied onto scales without jacking.
-- Plumb bob (one per weighing point)
+- Plumb bob
 - Chalk line
 - Tape measure
 - Digital or bubble level
@@ -33,8 +33,8 @@ For CG calculations from the recorded weights and moment arms, see [[W&B Calcula
 ## Aircraft Configuration
 
 1. Drain the fuel system until the quantity indicators read zero with the aircraft in level flight attitude. Residual fuel remaining in tanks, lines, and engine is included in empty weight. (AC 43.13, ch10_p015)
-2. Fill the oil system to the quantity specified in the aircraft records.
-3. Retract all antennas, close all access panels, and stow all equipment in its normal installed position.
+2. Fill the oil system to @@TOM: 6 qt. (AC 43.13, ch10_p015)
+3. Install both rear seats. Close all access panels and stow all equipment in its normal installed position.
 
 ## Procedure
 
