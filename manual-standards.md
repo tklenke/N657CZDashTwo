@@ -2,12 +2,12 @@
 
 This page is the authoritative reference for how this manual is organized and why. It records structural decisions about the manual's scope, section organization, and content placement rules. When a future editor needs to decide where content belongs or how to structure a new page, the answer should be here.
 
-For decisions specific to individual sections, see [[Section Notes|section-notes]].
+For decisions specific to individual sections, see [[Section Notes|manual-standards-section-notes]].
 
 For writing and formatting standards, see:
-- [[Writing Style|writing-style]] — voice, tense, and language rules
-- [[Formatting|formatting]] — page naming, NOTE callouts, citations, cross-references
-- [[Page Templates|page-templates]] — standard page structures by page type
+- [[Writing Style|manual-standards-writing-style]] — voice, tense, and language rules
+- [[Formatting|manual-standards-formatting]] — page naming, NOTE callouts, citations, cross-references
+- [[Page Templates|manual-standards-page-templates]] — standard page structures by page type
 
 ---
 

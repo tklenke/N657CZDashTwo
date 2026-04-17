@@ -139,4 +139,4 @@ No procedures are duplicated on index pages. If a task has no dedicated procedur
 
 Use for pages that are informational rather than procedural (e.g., Manual Standards, Record of Revisions, Systems Overview).
 
-No standard template — structure to suit the content. Apply writing style and formatting standards from [[Writing Style|writing-style]] and [[Formatting|formatting]].
+No standard template — structure to suit the content. Apply writing style and formatting standards from [[Writing Style|manual-standards-writing-style]] and [[Formatting|manual-standards-formatting]].
