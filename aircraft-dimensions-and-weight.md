@@ -26,8 +26,8 @@ Specifications for the Cozy Mark IV (N657CZ).
 
 | Parameter | Value |
 |-----------|-------|
-| Maximum Speed | @@TOM: 191 kt |
-| Minimum Speed | @@TOM: 56 kt |
+| Vne (Never Exceed Speed) | @@TOM: 191 kt |
+| Vs (Stall Speed) | @@TOM: 56 kt |
 | Range | @@TOM: 1173 nm (with 1 hr reserve) |
 
 ## Powerplant and Landing Gear
