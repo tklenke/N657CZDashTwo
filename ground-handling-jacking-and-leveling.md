@@ -24,6 +24,8 @@ The Cozy Mark IV has no factory-specified jack points. The accepted method is to
 
 > **NOTE:** Never jack directly on the wing or strake skins. Always support under the spar with a suitable pad. Concentrated loads on skins can cause structural damage.
 
+With the aircraft on jacks and the nose gear extended, the aircraft is at risk of tipping backward if the front seat is unoccupied. See [[Nose Gear Tipping Hazard|landing-gear-nose-gear-tipping]] before beginning any jacking procedure.
+
 Jack placement further outboard on the spar transfers more load to the nose gear. Preferred placement is at the outboard end of the center section spar or just outboard of the outboard wing mount bolts.
 
 Perform all jacking in a closed hangar. Wind can affect stability of an aircraft on jacks.
