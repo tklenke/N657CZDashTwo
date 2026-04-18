@@ -124,7 +124,9 @@ This manual covers inspection and maintenance procedures for N657CZ, a Cozy Mark
 
 ## 17. Avionics
 
+- [[G3X System Overview|avionics-g3x-system]]
 - [[ADAHRS (GSU 25C)|avionics-adahrs]]
+- [[Antenna System|avionics-antennas]]
 - [[Audio Panel (GMA 245R)|avionics-audio-panel]]
 - [[Autopilot|avionics-autopilot]]
 - [[Engine Data Acquisition (GEA 24)|avionics-engine-data-acquisition]]
