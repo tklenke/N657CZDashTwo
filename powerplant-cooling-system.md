@@ -2,15 +2,15 @@
 
 ## Description
 
-The cooling system regulates oil temperature using an oil cooler mounted in the strake, below and aft of the engine on the left side. Airflow through the oil cooler is controlled by a cockpit-operated louver assembly.
+The cooling system regulates oil temperature using an oil cooler mounted behind the strake inside the engine cowling. Airflow through the oil cooler is controlled by a cockpit-operated louver assembly.
 
-The NACA scoop on the cowl pressurizes the cowling interior. Cooling air enters the oil cooler from the top through the louver inlet and exits out the bottom of the lower cowl. The louvers regulate oil temperature by restricting or opening the inlet — not the outlet.
+The NACA-style flush inlet (National Advisory Committee for Aeronautics) on the belly pressurizes the cowling interior. Cooling air enters the oil cooler from the top through the louver inlet and exits out the bottom of the lower cowl. The louvers regulate oil temperature by restricting or opening the inlet — not the outlet.
 
 ## System Components
 
 - **Oil cooler** — @@TOM: confirm model. Expected: AeroClassic 8000216, 17-row drawn cup. Mounted in the left strake under the engine cowling.
 - **Louver assembly** — custom-built. Aluminum or composite louver vanes, riveted and screwed assembly with foam or gasket sealing at closure. Controlled by a repurposed carb heat cable routed to the cockpit.
-- **Control cable** — carb heat cable. Cockpit end terminates at the throttle quadrant area. @@TOM: confirm exact cockpit control location.
+- **Control cable** — Cockpit end terminates at the throttle quadrant, white rightmost lever. 
 - **Tension spring** — spring-loaded to hold louvers open if cable fails. Fail-safe: loss of cable control results in full cooling airflow, not restriction.
 
 ## Operation
@@ -44,7 +44,7 @@ Inspect the cooling system at each condition inspection.
 **Functional test:**
 - Operate the louver control through full travel. Louvers must open and close fully without binding.
 - Verify louvers return to open position when cockpit control is released (spring action).
-- If resistance is noted, investigate before flight — do not force the mechanism.
+- If you notice resistance, investigate before flight — do not force the mechanism.
 
 ## Procedures
 
