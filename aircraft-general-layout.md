@@ -4,8 +4,6 @@ N657CZ is a four-seat canard pusher of composite construction. This configuratio
 
 Access to interior systems is through the canopy. Engine compartment access is through the cowling. Components mounted on the forward side of the firewall are accessible by removing the firewall cover panel.
 
----
-
 ## Nose
 
 The nose cone is removable and contains:
@@ -14,8 +12,6 @@ The nose cone is removable and contains:
 - Landing light
 - Taxi light
 - Ballast weight anchor points
-
----
 
 ## Forward Fuselage — Under Canard
 
@@ -27,14 +23,10 @@ Working aft from the nose cone:
 - **Rudder pedals** — just aft and below the nose gear actuator.
 - **Pitch trim lever** — mounted on the right side of the nose gear well.
 
----
-
-## Cockpit — Forward of IP
+## Cockpit — Forward of Instrument Panel
 
 - **Avionics bay** — located just aft of the canard, forward of the instrument panel (IP). Accessible by removing the glareshield and avionics bay cover. Contains the majority of the Garmin avionics suite. See [[Avionics|avionics-gdu-460-pfd]] in Section 17 for the full LRU inventory.
 - **Pitch servo** — mounted on the right fuselage side just ahead of the IP.
-
----
 
 ## Cockpit — IP and Center Console
 
@@ -43,14 +35,10 @@ Working aft from the nose cone:
 - **Throttle quadrant** — center console. Three levers: mixture (red), throttle (black T-handle), cooling (white).
 - **Nose gear manual backup** — Center IP, requires 1/4" socket to engage.
 
----
-
 ## Center Fuselage — Under Seats
 
 - **Under left seat** — FH20 Main Bus fuse block.
 - **Under right seat** — FH12 Endurance Bus fuse block, backup battery, and two S701 Brownout relays.
-
----
 
 ## Center Fuselage — Seat Back Bulkhead
 
@@ -60,8 +48,6 @@ Mounted on the front seat back bulkhead (between cockpit and cabin):
 - **Cabin heat knob** — centerline, above the fuel selector.
 - **Landing brake electric actuator** — aft side, just right of centerline.
 - **Canopy electric actuator** — top right.
-
----
 
 ## Strakes and Fuel System
 
@@ -73,9 +59,7 @@ The strakes are the fuselage side extensions at the wing roots that also serve a
 - **High-pressure fuel pump** — behind the rear seat backs, on the forward face of the firewall below the spar.
 - **GMU 11 magnetometer** — right strake, at the most lateral position forward of the wing root.
 
----
-
-## Firewall — Forward Face (Behind Firewall Cover Panel)
+## Firewall — Forward Face
 
 The following components are mounted on the forward (cabin) face of the firewall, above the spar. Access requires removing the firewall cover panel. See [[Firewall Cover Panel|panels-firewall-cover]] in Section 9.
 
@@ -90,9 +74,7 @@ The following components are mounted on the forward (cabin) face of the firewall
 - Two shunts
 - Ground block (passes through to aft face of firewall)
 
----
-
-## Engine Compartment — Aft of Firewall
+## Engine Compartment
 
 Access through the engine cowling. See [[Cowling|panels-cowling]] in Section 9.
 
@@ -105,13 +87,9 @@ Access through the engine cowling. See [[Cowling|panels-cowling]] in Section 9.
 - Oil cooler — mounted on the backside of the strakes under the cowling
 - Autopilot roll servo — mounted on the backside of the strakes under the cowling
 
----
-
 ## Wing Tips
 
 - Left and right wingtip nav/strobe units (Whelen Blaze combination nav/strobe).
-
----
 
 ## Antennas
 
