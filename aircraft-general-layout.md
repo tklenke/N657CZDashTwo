@@ -40,7 +40,6 @@ Working aft from the nose cone:
 
 - **Instrument panel** — houses the GDU 460 PFD and associated displays and controls.
 - **Roll trim lever** — mounted on the center console just aft of the IP, forward of the throttle.
-- **Pitch trim lever** — mounted on the left side of the right seat opening in the IP.
 - **Throttle quadrant** — center console. Three levers: mixture (red), throttle (black T-handle), cooling (white).
 - **Nose gear manual backup** — Center IP, requires 1/4" socket to engage.
 
@@ -111,3 +110,9 @@ Access through the engine cowling. See [[Cowling|panels-cowling]] in Section 9.
 ## Wing Tips
 
 - Left and right wingtip nav/strobe units (Whelen Blaze combination nav/strobe).
+
+---
+
+## Antennas
+
+The aircraft uses a combination of external antennas and embedded copper foil antennas laminated into the composite structure. See [[Antenna System|avionics-antennas]] in Section 17 for the full inventory and connection details.

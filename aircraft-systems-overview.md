@@ -91,8 +91,11 @@ All Garmin avionics. The majority of LRUs are located in the avionics bay forwar
 | GSA 28 (×2) | Autopilot servos — pitch (right fuselage, forward of IP) and roll (under cowling on strake). |
 | GSB 15 | @@TOM: confirm GSB 15 function. |
 | GPS 20A | @@TOM: confirm GPS 20A function/role. |
+| GA 35 | GPS antenna. |
 
 See Section 17 for avionics inspection and maintenance.
+
+The aircraft uses embedded copper foil antennas laminated into the composite structure (wings, canard, vertical stabilizers, fuselage) plus an external GPS antenna. See [[Antenna System|avionics-antennas]] in Section 17 for the full inventory.
 
 ---
 
