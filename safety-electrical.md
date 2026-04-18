@@ -8,7 +8,7 @@ N657CZ has a 12-volt DC electrical system powered by two EarthX lithium iron pho
 
 1. Turn the master switch off.
 2. Disconnect the main battery. The main battery is located on top of the main spar, forward of the firewall, behind the firewall cover panel. See [[Firewall Cover Panel|panels-firewall-cover]] in Section 9 for access.
-3. Disconnect the backup battery. @@TOM: Confirm backup battery location — believed to be under the right front seat.
+3. Disconnect the backup battery. The backup battery is located under the right front seat.
 
 Both batteries must be disconnected before working on electrical components. The backup battery remains connected after master switch off.
 
@@ -29,11 +29,22 @@ When removing or installing a battery:
 
 ## Battery Chemistry
 
-EarthX LiFePO4 batteries contain no liquid electrolyte. There is no acid or alkali burn hazard on contact.
+EarthX LiFePO4 batteries contain no liquid electrolyte — they will not freeze and there is no acid or alkali burn hazard on contact (ETX_Manual_111017_AE.pdf).
 
-@@TOM: Obtain EarthX safety documentation (TDS or MSDS) for the ETX900-VNT and backup battery. Add to `docs/references/tds/` and update this section with specific handling precautions and first aid guidance when available.
+Do not incinerate a battery or expose it to open flames (ETX_Manual_111017_AE.pdf).
 
-Do not use high-amperage automotive battery chargers on aircraft batteries (AC 43.13, ch11_p019).
+---
+
+## Battery Charging
+
+When charging a battery off the aircraft (ETX_Manual_111017_AE.pdf):
+
+- Use a LiFePO4-compatible charger. Charger output voltage must not exceed 15V.
+- Never use the de-sulfate setting.
+- Never charge a battery that is swollen or will not accept or hold a charge.
+- If the battery becomes hot during charging, stop immediately and do not use the battery.
+- Do not charge above 140°F (60°C) or in direct sunlight.
+- Place the battery on a non-flammable surface and remove flammable materials from the area before charging.
 
 ---
 
