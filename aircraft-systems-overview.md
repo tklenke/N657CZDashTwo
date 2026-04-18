@@ -79,7 +79,7 @@ All Garmin avionics. The majority of LRUs are located in the avionics bay forwar
 | LRU | Function |
 |-----|----------|
 | GDU 460 | Primary flight display (PFD). |
-| G5 (×2) | Backup flight instruments. |
+| G5 | Backup flight instrument. |
 | GNC 355 | GPS navigator with VHF comm. |
 | GTR 20 | VHF communication radio. |
 | GTX 45R | Transponder and ADS-B (in/out). |
@@ -89,8 +89,8 @@ All Garmin avionics. The majority of LRUs are located in the avionics bay forwar
 | GEA 24 | Engine data acquisition, forward firewall. |
 | GMC 507 | Autopilot controller. |
 | GSA 28 (×2) | Autopilot servos — pitch (right fuselage, forward of IP) and roll (under cowling on strake). |
-| GSB 15 | @@TOM: confirm GSB 15 function. |
-| GPS 20A | @@TOM: confirm GPS 20A function/role. |
+| GSB 15 | USB Power plug. |
+| GPS 20A | GPS Source. |
 | GA 35 | GPS antenna. |
 
 See Section 17 for avionics inspection and maintenance.
