@@ -2,8 +2,6 @@
 
 The airframe of N657CZ is fiberglass/epoxy composite construction. Routine inspection, surface preparation, and repair work all involve contact with composite materials. Hazards differ depending on whether the material is cured or uncured and what work is being performed.
 
----
-
 ## Fiberglass Dust
 
 Sanding, grinding, drilling, or cutting fiberglass generates fine glass fiber dust that causes skin and respiratory irritation (AC 43.13, ch03_p002).
@@ -15,8 +13,6 @@ Sanding, grinding, drilling, or cutting fiberglass generates fine glass fiber du
 - Long sleeves
 
 Work in a well-ventilated area or outdoors. Sanding generates static charges that attract dust and contamination to the work surface — wipe surfaces down after sanding before applying resin (AC 43.13, ch03_p002).
-
----
 
 ## Uncured Epoxy
 
@@ -33,8 +29,6 @@ Epoxy resin and hardener are hazardous in liquid form. Cured epoxy is inert — 
 
 Review the Material Safety Data Sheet (MSDS) for the specific epoxy system before starting any repair. Consult the MSDS for first aid, handling precautions, and disposal requirements (AC 43.13, ch03_p001; ch01_p018).
 
----
-
 ## Epoxy Systems Used on This Aircraft
 
 N657CZ was built using four epoxy systems at different times. When performing a repair, identify which system is present in the repair area if possible, and obtain the MSDS for that system.
@@ -49,8 +43,6 @@ N657CZ was built using four epoxy systems at different times. When performing a 
 | West System | West 105 | 205 (fast), 206 (slow), 207 (special clear), 209 (extra slow) |
 
 @@TOM: Confirm resin and hardener details for all four systems. Add MSDS sources or TDS files to `docs/references/tds/` when available.
-
----
 
 ## General Precautions
 

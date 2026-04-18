@@ -6,8 +6,6 @@ When forward weight is insufficient and the nose gear is extended or raised, the
 
 **It happens fast.** A person exiting the front seat, baggage being removed, or even wind lifting the nose can be enough to trigger a tip. There is no warning.
 
----
-
 ## Conditions That Create the Hazard
 
 The aircraft is at risk of tipping whenever the nose gear is extended or the nose is raised and the front seat is unoccupied or lightly loaded. Common situations include:
@@ -19,8 +17,6 @@ The aircraft is at risk of tipping whenever the nose gear is extended or the nos
 - Fueling or loading baggage while the front seat is empty
 - Pushing or pulling on uneven ground or a slope
 
----
-
 ## Damage
 
 If the aircraft tips backward it pivots on the main gear. Typical damage:
@@ -30,8 +26,6 @@ If the aircraft tips backward it pivots on the main gear. Typical damage:
 - **Main gear** — possible stress or damage on a hard fall
 
 Serious structural or engine damage is uncommon from a slow tip, but prop and winglet repairs are time-consuming and costly.
-
----
 
 ## Prevention
 
@@ -43,8 +37,6 @@ Serious structural or engine damage is uncommon from a slow tip, but prop and wi
 - Use extra caution when moving the aircraft on slopes or uneven ground.
 
 **Set the propeller horizontal** before any ground operation where tipping is possible. A horizontal prop orientation reduces the chance of a tip strike if the aircraft does fall.
-
----
 
 ## Aircraft Resting on Nose
 

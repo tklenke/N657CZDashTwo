@@ -2,8 +2,6 @@
 
 N657CZ has a 12-volt DC electrical system powered by two EarthX lithium iron phosphate (LiFePO4) batteries. De-energize the aircraft before performing maintenance on any electrical component, wiring, or device connected to the electrical system.
 
----
-
 ## De-energizing the Aircraft
 
 1. Turn the master switch off.
@@ -11,8 +9,6 @@ N657CZ has a 12-volt DC electrical system powered by two EarthX lithium iron pho
 3. Disconnect the backup battery. The backup battery is located under the right front seat.
 
 Both batteries must be disconnected before working on electrical components. The backup battery remains connected after master switch off.
-
----
 
 ## Short Circuit Hazards
 
@@ -22,18 +18,14 @@ When removing or installing a battery:
 
 - Remove the negative (ground) lead first (AC 43.13, ch11_p022).
 - Connect the negative (ground) lead last (AC 43.13, ch11_p022).
-- Cover or insulate terminal posts while installing to prevent accidental contact.
+- Cover or insulate terminal posts while installing to prevent accidental contact (AC 43.13, ch11_p022).
 - Do not reverse polarity — reverse connection damages the battery and electrical components (AC 43.13, ch11_p022).
-
----
 
 ## Battery Chemistry
 
 EarthX LiFePO4 batteries contain no liquid electrolyte — they will not freeze and there is no acid or alkali burn hazard on contact (ETX_Manual_111017_AE.pdf).
 
 Do not incinerate a battery or expose it to open flames (ETX_Manual_111017_AE.pdf).
-
----
 
 ## Battery Charging
 
@@ -45,8 +37,6 @@ When charging a battery off the aircraft (ETX_Manual_111017_AE.pdf):
 - If the battery becomes hot during charging, stop immediately and do not use the battery.
 - Do not charge above 140°F (60°C) or in direct sunlight.
 - Place the battery on a non-flammable surface and remove flammable materials from the area before charging.
-
----
 
 ## Before Re-energizing After Maintenance
 

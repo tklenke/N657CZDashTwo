@@ -2,8 +2,6 @@
 
 100LL aviation gasoline is highly flammable. Fuel vapor is heavier than air and accumulates in low areas — under the cowling, in wheel wells, and around the fuselage. Treat any area with exposed fuel or open fuel lines as a potential ignition hazard.
 
----
-
 ## Ignition Sources
 
 Eliminate all ignition sources before fueling or opening any fuel system component:
@@ -12,13 +10,9 @@ Eliminate all ignition sources before fueling or opening any fuel system compone
 - No open flames, sparks, or heat sources near the aircraft.
 - Do not connect or disconnect electrical equipment while fuel lines are open or fuel vapors may be present.
 
----
-
 ## Grounding
 
 Bond the aircraft to the fueling truck or ground point before opening the fuel caps. See [[Fuel System Grounding|fuel-grounding]] in Section 15 for the grounding procedure.
-
----
 
 ## During Fuel System Work
 

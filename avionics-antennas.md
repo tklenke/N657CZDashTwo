@@ -2,15 +2,11 @@
 
 N657CZ uses a combination of one external antenna, multiple internally mounted antennas, and multiple copper foil antennas laminated into the composite structure during construction. The embedded antennas are not field-replaceable without structural work.
 
----
-
 ## External Antennas
 
 | Antenna | Description | Location | Connected To |
 |---------|-------------|----------|-------------|
 | @@TOM TED ADS-B | ADS-B Antenna | Underside fuselage between nose gear and landing brake | GTX 45R |
-
----
 
 ## Internal Antennas
 
@@ -19,8 +15,6 @@ N657CZ uses a combination of one external antenna, multiple internally mounted a
 | GA 35 | Garmin GPS antenna | Avionics Tray | GPS 20A |
 | G5-specific GPS antenna (Part # 011-04036-00 or 010-12444-10) | Garmin G5 GPS antenna | Avionics Tray | G5 |
 | Whip dipole | ELT Antenna | Spar | Artex ELT345 |
-
----
 
 ## Embedded Copper Foil Antennas
 

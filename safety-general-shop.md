@@ -1,14 +1,10 @@
 # General Shop Safety
 
----
-
 ## Before Starting Work
 
 Chock the main wheels before performing any maintenance. N657CZ has no parking brake — chocks are the only means of preventing the aircraft from rolling.
 
 @@TOM: Confirm no parking brake is installed.
-
----
 
 ## Nose Gear Tipping Hazard
 

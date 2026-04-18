@@ -2,8 +2,6 @@
 
 Major systems installed on N657CZ, with references to their sections.
 
----
-
 ## Flight Controls — Section 12
 
 | System | Description |
@@ -15,8 +13,6 @@ Major systems installed on N657CZ, with references to their sections.
 
 See Section 12 for inspection and adjustment procedures.
 
----
-
 ## Landing Gear and Brakes — Section 13
 
 | System | Description |
@@ -26,8 +22,6 @@ See Section 12 for inspection and adjustment procedures.
 | Brake system | Hydraulic disc brakes, MIL-H-5606A fluid. |
 
 See Section 13 for inspection and maintenance procedures.
-
----
 
 ## Powerplant — Section 14
 
@@ -43,8 +37,6 @@ See Section 13 for inspection and maintenance procedures.
 
 See Section 14 for powerplant inspection and maintenance.
 
----
-
 ## Fuel System — Section 15
 
 | Component | Description |
@@ -55,8 +47,6 @@ See Section 14 for powerplant inspection and maintenance.
 | Injection | Airperformance fuel injection system. |
 
 See Section 15 for fuel system inspection and servicing.
-
----
 
 ## Electrical System — Section 16
 
@@ -69,8 +59,6 @@ See Section 15 for fuel system inspection and servicing.
 | Bus architecture | Main bus, endurance bus, and battery bus. Circuit protection via fuse blocks FH20 (main bus, under left seat), FH12 (endurance bus, under right seat), and FH6 (battery bus, forward firewall). |
 
 See Section 16 for electrical system inspection and maintenance.
-
----
 
 ## Avionics — Section 17
 
@@ -97,18 +85,14 @@ See Section 17 for avionics inspection and maintenance.
 
 The aircraft uses embedded copper foil antennas laminated into the composite structure (wings, canard, vertical stabilizers, fuselage) plus an external GPS antenna. See [[Antenna System|avionics-antennas]] in Section 17 for the full inventory.
 
----
-
 ## Heating and Ventilating — Section 18
 
 | System | Description |
 |--------|-------------|
-| Cabin heat | @@TOM: describe heat source (exhaust muff, dedicated heater?) and controls. |
-| Ventilation | @@TOM: describe ventilation arrangement. |
+| Cabin heat | Combustion muff on exhaust pipes. Controlled by cabin heat knob on seat back bulkhead. |
+| Ventilation | Eyeball vents supplied by NACA ducts on fuselage sides. Vents at left front seat, right front seat, and right rear seat. |
 
 See Section 18 for inspection and maintenance.
-
----
 
 ## Emergency Equipment — Section 11
 
@@ -116,4 +100,4 @@ See Section 18 for inspection and maintenance.
 |-----------|-------------|
 | ELT | Artex ELT345 emergency locator transmitter. |
 | Fire extinguisher | Cabin-mounted. See [[Fire Extinguisher|emergency-fire-extinguisher]] in Section 11 for location. |
-| Survival equipment | @@TOM: describe what survival equipment is carried, if any. |
+| Survival equipment | None beyond ELT345 above. |

@@ -4,8 +4,6 @@ Consult the Material Safety Data Sheet (MSDS) for any chemical before using it. 
 
 The following chemicals are used in routine maintenance of N657CZ.
 
----
-
 ## Engine Oil — AeroShell W100+
 
 Combustible at elevated temperatures. Low acute hazard under normal handling conditions.
@@ -13,16 +11,12 @@ Combustible at elevated temperatures. Low acute hazard under normal handling con
 - Wear nitrile gloves for prolonged skin contact.
 - Dispose of used oil per local regulations — do not pour on the ground or into a drain.
 
----
-
 ## Hydraulic Fluid — MIL-H-5606A
 
 Petroleum-based mineral fluid. Flammable. Eye and skin irritant.
 
 - Wear nitrile gloves and eye protection when working on brake system components.
 - Clean up spills promptly — MIL-H-5606A on hot brake components is a fire hazard.
-
----
 
 ## Cleaning Solvents
 
@@ -47,16 +41,12 @@ Water-based degreaser. Low flammability. Mild eye irritant.
 
 - Wear safety glasses or goggles if splash is likely.
 
----
-
 ## Thread Sealant — Permatex
 
 Skin sensitizer and eye irritant. See Permatex Thread Sealant TDS (`Permatex_Thread_Sealant_TDS.pdf`) for full handling precautions and first aid.
 
 - Wear nitrile gloves.
 - Wear safety glasses or goggles.
-
----
 
 ## Aerosol Lubricants — LPS
 
