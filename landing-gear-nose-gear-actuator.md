@@ -84,7 +84,11 @@ Perform this test after any work on the actuator, limit switches, or clamp hardw
 
 ### Manual Extension
 
-@@TOM: Describe manual backup extension procedure. (A manual extension rod is accessible from the instrument panel per Wilhelmson design, but the procedure is not documented in available sources.)
+A manual extension rod runs from the instrument panel to the actuator. The IP end of the rod is fitted with a 1/4" drive socket.
+
+1. Locate the manual extension rod socket on the instrument panel.
+2. Insert a 1/4" drive socket wrench into the socket.
+3. Turn the rod to extend or retract the nose gear. @@TOM: Confirm clockwise/counterclockwise direction for extend and retract.
 
 ### Removal and Installation
 
