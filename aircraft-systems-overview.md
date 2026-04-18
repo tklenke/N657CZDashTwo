@@ -114,6 +114,6 @@ See Section 18 for inspection and maintenance.
 
 | Equipment | Description |
 |-----------|-------------|
-| ELT | Emergency locator transmitter. |
+| ELT | Artex ELT345 emergency locator transmitter. |
 | Fire extinguisher | Cabin-mounted. See [[Fire Extinguisher|emergency-fire-extinguisher]] in Section 11 for location. |
 | Survival equipment | @@TOM: describe what survival equipment is carried, if any. |
