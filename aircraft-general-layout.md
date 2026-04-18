@@ -1,8 +1,8 @@
 # General Layout and Configuration
 
-N657CZ is a four-seat canard pusher of composite (fiberglass/epoxy) construction. The main wing is mounted aft and the canard is mounted forward. The engine and propeller are at the rear of the fuselage. This configuration places most of the aircraft's weight aft of the main gear — see [[Nose Gear Tipping Hazard|landing-gear-nose-gear-tipping]] for ground handling implications.
+N657CZ is a four-seat canard pusher of composite construction. This configuration places most of the aircraft's weight aft of the main gear — see [[Nose Gear Tipping Hazard|landing-gear-nose-gear-tipping]] for ground handling implications.
 
-Access to interior systems is through the canopy. Engine compartment access is through the cowling. Firewall-mounted components are accessible by removing the firewall cover panel.
+Access to interior systems is through the canopy. Engine compartment access is through the cowling. Components mounted on the forward side of the firewall are accessible by removing the firewall cover panel.
 
 ---
 
@@ -40,14 +40,16 @@ Working aft from the nose cone:
 
 - **Instrument panel** — houses the GDU 460 PFD and associated displays and controls.
 - **Roll trim lever** — mounted on the center console just aft of the IP, forward of the throttle.
+- **Pitch trim lever** — mounted on the left side of the right seat opening in the IP.
 - **Throttle quadrant** — center console. Three levers: mixture (red), throttle (black T-handle), cooling (white).
+- **Nose gear manual backup** — Center IP, requires 1/4" socket to engage.
 
 ---
 
 ## Center Fuselage — Under Seats
 
 - **Under left seat** — FH20 Main Bus fuse block.
-- **Under right seat** — FH12 Endurance Bus fuse block, backup battery, and two S701 relays.
+- **Under right seat** — FH12 Endurance Bus fuse block, backup battery, and two S701 Brownout relays.
 
 ---
 
@@ -56,8 +58,8 @@ Working aft from the nose cone:
 Mounted on the front seat back bulkhead (between cockpit and cabin):
 
 - **Fuel tank selector handle** — centerline, between left and right seats.
-- **Cabin heat knob** — centerline, adjacent to fuel selector.
-- **Landing brake actuator** — aft side, just right of centerline.
+- **Cabin heat knob** — centerline, above the fuel selector.
+- **Landing brake electric actuator** — aft side, just right of centerline.
 - **Canopy electric actuator** — top right.
 
 ---
