@@ -13,7 +13,7 @@ Most LRUs are located in the avionics bay forward of the instrument panel (IP). 
 - [[Audio Panel (GMA 245)|avionics-audio-panel]] — audio switching and intercom
 - [[Autopilot|avionics-autopilot]] — GMC 507 mode controller and GSA 28 servos (×2)
 - [[Engine Data Acquisition (GEA 24)|avionics-engine-data-acquisition]] — engine and systems monitoring
-- [[G5 Backup Instrument|avionics-g5-backup-instrument]] — standby attitude and airspeed display (×2)
+- [[G5 Backup Instrument|avionics-g5-backup-instrument]] — standby attitude and airspeed display
 - [[GDU 460 PFD|avionics-gdu-460-pfd]] — primary flight display touchscreen
 - GAD 29 — ARINC 429 data concentrator for the G3X system @@TOM: needs dedicated page — architect task
 - [[GPS and Navigation (GNC 355)|avionics-gps-and-navigation]] — IFR GPS navigator and VHF comm (Comm 2)
