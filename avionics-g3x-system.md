@@ -32,7 +32,7 @@ The GDU 460 is the central display and configuration interface for the suite. Th
 
 The GPS 20A provides WAAS GPS position data to the GDU 460 and GNC 355. The GTX 45R transponder sends and receives ADS-B traffic and weather data, displayed on the GDU 460. The autopilot (GMC 507 and GSA 28 servos) receives flight director guidance from the GDU 460.
 
-The G5 backup instruments operate on separate power from the main G3X bus. @@TOM: Confirm G5 power source — main bus or dedicated circuit?
+The G3X bus is fed from the endurance bus. The G5 backup instruments, GNC 355, GMU 11, and GMA 245R are powered directly from the endurance bus and remain operational if the G3X bus loses power.
 
 ## Inspection
 
@@ -40,6 +40,6 @@ System-level inspection is performed as part of the annual condition inspection.
 
 - All LRUs power on without fault or alert messages on the GDU 460
 - GDU 460 self-test completes without alerts
-- GSU 25C AHRS aligns within normal time on power-up @@TOM: alignment time limit — check G3X installation manual if needed
+- GSU 25C AHRS aligns within approximately 1 minute on power-up
 - Engine data is present and plausible on the GDU 460 after engine start
 - No persistent system messages remain after normal power-on sequence
