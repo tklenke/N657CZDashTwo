@@ -124,16 +124,17 @@ This manual covers inspection and maintenance procedures for N657CZ, a Cozy Mark
 
 ## 17. Avionics
 
-- [[G3X System Overview|avionics-g3x-system]]
+- [[G3X System Overview|avionics-system-overview]]
 - [[ADAHRS (GSU 25C)|avionics-adahrs]]
 - [[Antenna System|avionics-antennas]]
-- [[Audio Panel (GMA 245R)|avionics-audio-panel]]
+- [[ARINC 429 Adapter (GAD 29)|avionics-arinc-429-adapter]]
+- [[Audio Panel (GMA 245)|avionics-audio-panel]]
 - [[Autopilot|avionics-autopilot]]
+- [[Backup Instrument (G5)|avionics-backup-instrument]]
 - [[Engine Data Acquisition (GEA 24)|avionics-engine-data-acquisition]]
-- [[G5 Backup Instrument|avionics-g5-backup-instrument]]
-- [[GDU 460 PFD|avionics-gdu-460-pfd]]
 - [[GPS and Navigation (GNC 355)|avionics-gps-and-navigation]]
 - [[Magnetometer (GMU 11)|avionics-magnetometer]]
+- [[Primary Flight Display (GDU 460)|avionics-primary-flight-display]]
 - [[Transponder and ADS-B (GTX 45R)|avionics-transponder-adsb]]
 - [[VHF Communication (GTR 20)|avionics-vhf-communication]]
 

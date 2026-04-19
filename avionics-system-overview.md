@@ -10,14 +10,14 @@ Most LRUs are located in the avionics bay forward of the instrument panel (IP). 
 
 - [[ADAHRS (GSU 25C)|avionics-adahrs]] — air data, attitude, and heading reference system
 - [[Antenna System|avionics-antennas]] — embedded copper foil and external antennas
-- ARINC 429 Adapter (GAD 29) — data concentrator for the G3X system @@TOM: needs dedicated page — architect task
+- [[ARINC 429 Adapter (GAD 29)|avionics-arinc-429-adapter]] — data concentrator for the G3X system
 - [[Audio Panel (GMA 245)|avionics-audio-panel]] — audio switching and intercom
 - [[Autopilot|avionics-autopilot]] — GMC 507 mode controller and GSA 28 servos (×2)
-- [[Backup Instrument (G5)|avionics-g5-backup-instrument]] — standby attitude and airspeed display
+- [[Backup Instrument (G5)|avionics-backup-instrument]] — standby attitude and airspeed display
 - [[Engine Data Acquisition (GEA 24)|avionics-engine-data-acquisition]] — engine and systems monitoring
 - [[GPS and Navigation (GNC 355)|avionics-gps-and-navigation]] — IFR GPS navigator and VHF comm (Comm 2)
 - [[Magnetometer (GMU 11)|avionics-magnetometer]] — remote magnetometer for heading reference
-- [[Primary Flight Display (GDU 460)|avionics-gdu-460-pfd]] — primary flight display touchscreen
+- [[Primary Flight Display (GDU 460)|avionics-primary-flight-display]] — primary flight display touchscreen
 - [[Transponder and ADS-B (GTX 45R)|avionics-transponder-adsb]] — Mode S transponder with ADS-B In/Out
 - [[VHF Communication (GTR 20)|avionics-vhf-communication]] — VHF comm (Comm 1)
 
