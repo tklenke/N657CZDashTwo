@@ -10,15 +10,16 @@ Most LRUs are located in the avionics bay forward of the instrument panel (IP). 
 
 - [[ADAHRS (GSU 25C)|avionics-adahrs]] — air data, attitude, and heading reference system
 - [[Antenna System|avionics-antennas]] — embedded copper foil and external antennas
-- [[Audio Panel (GMA 245R)|avionics-audio-panel]] — audio switching and intercom
+- [[Audio Panel (GMA 245)|avionics-audio-panel]] — audio switching and intercom
 - [[Autopilot|avionics-autopilot]] — GMC 507 mode controller and GSA 28 servos (×2)
 - [[Engine Data Acquisition (GEA 24)|avionics-engine-data-acquisition]] — engine and systems monitoring
 - [[G5 Backup Instrument|avionics-g5-backup-instrument]] — standby attitude and airspeed display (×2)
 - [[GDU 460 PFD|avionics-gdu-460-pfd]] — primary flight display touchscreen
-- [[GPS and Navigation (GNC 355)|avionics-gps-and-navigation]] — IFR GPS navigator
+- GAD 29 — ARINC 429 data concentrator for the G3X system @@TOM: needs dedicated page — architect task
+- [[GPS and Navigation (GNC 355)|avionics-gps-and-navigation]] — IFR GPS navigator and VHF comm (Comm 2)
 - [[Magnetometer (GMU 11)|avionics-magnetometer]] — remote magnetometer for heading reference
 - [[Transponder and ADS-B (GTX 45R)|avionics-transponder-adsb]] — Mode S transponder with ADS-B In/Out
-- [[VHF Communication (GTR 20)|avionics-vhf-communication]] — VHF comm radios (×2)
+- [[VHF Communication (GTR 20R)|avionics-vhf-communication]] — VHF comm (Comm 1)
 
 ## System Interconnect Diagram
 
@@ -32,7 +33,7 @@ The GDU 460 is the central display and configuration interface for the suite. Th
 
 The GPS 20A provides WAAS GPS position data to the GDU 460 and GNC 355. The GTX 45R transponder sends and receives ADS-B traffic and weather data, displayed on the GDU 460. The autopilot (GMC 507 and GSA 28 servos) receives flight director guidance from the GDU 460.
 
-The G3X bus is fed from the endurance bus. The G5 backup instruments, GNC 355, GMU 11, and GMA 245R are powered directly from the endurance bus and remain operational if the G3X bus loses power.
+The G3X bus is fed from the endurance bus. The G5 backup instruments, GNC 355, GMU 11, and GMA 245 are powered directly from the endurance bus and remain operational if the G3X bus loses power.
 
 ## Inspection
 
