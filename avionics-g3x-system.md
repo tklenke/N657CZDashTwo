@@ -19,7 +19,7 @@ Most LRUs are located in the avionics bay forward of the instrument panel (IP). 
 - [[GPS and Navigation (GNC 355)|avionics-gps-and-navigation]] — IFR GPS navigator and VHF comm (Comm 2)
 - [[Magnetometer (GMU 11)|avionics-magnetometer]] — remote magnetometer for heading reference
 - [[Transponder and ADS-B (GTX 45R)|avionics-transponder-adsb]] — Mode S transponder with ADS-B In/Out
-- [[VHF Communication (GTR 20R)|avionics-vhf-communication]] — VHF comm (Comm 1)
+- [[VHF Communication (GTR 20)|avionics-vhf-communication]] — VHF comm (Comm 1)
 
 ## System Interconnect Diagram
 
