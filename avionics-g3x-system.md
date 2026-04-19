@@ -24,10 +24,6 @@ Most LRUs are located in the avionics bay forward of the instrument panel (IP). 
 
 The diagram below shows the data bus and electrical interconnections between G3X LRUs.
 
-> **NOTE:** Two image embed formats are included below — one will render correctly in OtterWiki. @@TOM: Verify which format renders and remove the other.
-
-[[/assets/diagrams/sec17-g3x-system-interconnect.svg]]
-
 ![G3X System Interconnect](/assets/diagrams/sec17-g3x-system-interconnect.svg)
 
 ## Operation
