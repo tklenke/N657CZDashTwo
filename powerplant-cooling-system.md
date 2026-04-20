@@ -1,5 +1,9 @@
 # Cooling System
 
+::: pending
+**PENDING** — 2026-04-18
+:::
+
 ## Description
 
 The cooling system regulates oil temperature using an oil cooler mounted behind the strake inside the engine cowling. Airflow through the oil cooler is controlled by a cockpit-operated louver assembly.

@@ -1,5 +1,9 @@
 # Antenna System
 
+::: pending
+**PENDING** — 2026-04-18
+:::
+
 N657CZ uses a combination of one external antenna, multiple internally mounted antennas, and multiple copper foil antennas laminated into the composite structure during construction. The embedded antennas are not field-replaceable without structural work.
 
 ## External Antennas

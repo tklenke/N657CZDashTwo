@@ -1,5 +1,9 @@
 # Nose Gear Actuator
 
+::: draft
+**DRAFT** — Not yet reviewed.
+:::
+
 ## Description
 
 N657CZ uses a Wilhelmson EZ Nose Lift electric linear actuator to extend and retract the nose gear. The actuator is mounted in the nose compartment between the NG-30 mounting plates. An internal ball screw driven by an electric motor extends and retracts the nose gear strut via a lower extension shaft attached to the NG-3/NG-4 fitting on the strut.

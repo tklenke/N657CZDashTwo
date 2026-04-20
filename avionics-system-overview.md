@@ -1,5 +1,9 @@
 # G3X System Overview
 
+::: draft
+**DRAFT** — Not yet reviewed.
+:::
+
 ## Description
 
 The Garmin G3X Touch is an integrated avionics suite providing primary flight display, engine monitoring, GPS navigation, communication, and autopilot functions. All G3X line-replaceable units (LRUs) draw power from the dedicated G3X bus. See [[Bus Architecture|electrical-bus-architecture]] in Section 16 for bus and circuit protection details.

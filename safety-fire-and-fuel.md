@@ -1,5 +1,9 @@
 # Fire and Fuel Hazards
 
+::: approved
+**APPROVED** — 2026-04-18
+:::
+
 100LL aviation gasoline is highly flammable. Fuel vapor is heavier than air and accumulates in low areas — under the cowling, in wheel wells, and around the fuselage. Treat any area with exposed fuel or open fuel lines as a potential ignition hazard.
 
 ## Ignition Sources

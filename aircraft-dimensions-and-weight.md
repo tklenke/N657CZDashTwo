@@ -1,5 +1,9 @@
 # Aircraft Dimensions and Weight
 
+::: pending
+**PENDING** — 2026-04-17
+:::
+
 Specifications for the Cozy Mark IV (N657CZ).
 
 ## Dimensions

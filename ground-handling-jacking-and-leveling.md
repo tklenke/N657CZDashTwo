@@ -1,5 +1,9 @@
 # Jacking and Leveling
 
+::: approved
+**APPROVED** — 2026-04-17
+:::
+
 ## Overview
 
 This procedure covers lifting the main gear off the ground for maintenance and leveling the aircraft for weight and balance or rigging work. Two jacking methods are described; use the method appropriate to the available equipment.

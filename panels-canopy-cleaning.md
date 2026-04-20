@@ -1,5 +1,9 @@
 # Canopy Cleaning
 
+::: approved
+**APPROVED** — 2026-04-17
+:::
+
 ## Overview
 
 This procedure covers routine cleaning and polishing of the canopy. Clean the canopy whenever surface contamination is present and after any flight that deposits insects or other residue on the surface.

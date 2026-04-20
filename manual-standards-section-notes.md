@@ -1,5 +1,9 @@
 # Section Notes
 
+::: approved
+**APPROVED** — 2026-04-17
+:::
+
 This page records structural decisions about individual sections of the manual — how each section is organized, what it contains, and why. For general editorial and organizational rules that apply across the whole manual, see [[Manual Standards|manual-standards]].
 
 ---

@@ -1,5 +1,9 @@
 # Nose Gear Tipping Hazard
 
+::: approved
+**APPROVED** — 2026-04-18
+:::
+
 N657CZ is a pusher canard with the engine, propeller, and much of the structural weight located aft of the main gear. On the ground, the aircraft balances with the nose down only when there is sufficient weight forward of the main gear — typically an occupant in the front seat or equivalent ballast.
 
 When forward weight is insufficient and the nose gear is extended or raised, the aircraft's center of gravity moves behind the main gear and the aircraft tips backward. This is a well-documented ground mishap among Cozy and canard aircraft owners.

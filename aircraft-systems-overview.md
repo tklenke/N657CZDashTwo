@@ -1,5 +1,9 @@
 # Systems Overview
 
+::: pending
+**PENDING** — 2026-04-18
+:::
+
 Major systems installed on N657CZ, with references to their sections.
 
 ## Flight Controls — Section 12

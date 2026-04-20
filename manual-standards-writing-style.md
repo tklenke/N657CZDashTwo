@@ -1,5 +1,9 @@
 # Writing Style
 
+::: approved
+**APPROVED** — 2026-04-17
+:::
+
 This page defines the writing style standards for this manual. It covers voice, tense, and language rules that apply to all content.
 
 ---

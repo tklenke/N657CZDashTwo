@@ -1,5 +1,9 @@
 # Electrical Safety
 
+::: approved
+**APPROVED** — 2026-04-18
+:::
+
 N657CZ has a 12-volt DC electrical system powered by two EarthX lithium iron phosphate (LiFePO4) batteries. De-energize the aircraft before performing maintenance on any electrical component, wiring, or device connected to the electrical system.
 
 ## De-energizing the Aircraft

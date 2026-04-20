@@ -1,5 +1,9 @@
 # Page Templates
 
+::: approved
+**APPROVED** — 2026-04-17
+:::
+
 This page defines standard page structures for each type of page in this manual. Use the appropriate template as a starting point for each new page.
 
 Sections marked *[delete if not applicable]* may be removed when they add no value for that specific page. Do not delete sections just because they are short — a brief Troubleshooting section is better than none if the content is useful.

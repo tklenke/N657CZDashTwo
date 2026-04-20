@@ -1,5 +1,9 @@
 # Fuel Level Sensors
 
+::: pending
+**PENDING** — 2026-04-17
+:::
+
 ## Description
 
 Each fuel tank is equipped with a Stewart Warner 385B resistive fuel level sender. The sender is a lever-style float unit that mounts through the forward wall of each fuel tank via a five-bolt SAE-5 flange. The senders are accessible through the strake baggage compartments. A flexible probe arm is bent to span the full depth of the tank interior, with the float tip positioned just clear of the tank bottom and the probe head just clear of the tank top. The sender outputs a resistance signal (240Ω empty, 33Ω full) to the Engine Monitoring System (EMS), which displays fuel quantity for each tank.

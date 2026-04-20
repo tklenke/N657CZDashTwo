@@ -1,5 +1,9 @@
 # Turtleback Windows
 
+::: pending
+**PENDING** — 2026-04-17
+:::
+
 ## Description
 
 The turtleback windows are two tinted acrylic panels embedded in the turtleback structure on each side of the fuselage. They provide lateral visibility for the rear seat passengers. Each window measures approximately 18 in. wide × 14 in. tall.

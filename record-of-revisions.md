@@ -1,5 +1,9 @@
 # Record of Revisions
 
+::: approved
+**APPROVED** — 2026-04-17
+:::
+
 This manual is maintained as a git repository. Every change to every page is recorded as a commit with a timestamp and description. This provides a complete, auditable history of all revisions.
 
 ## Print Footer

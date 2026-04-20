@@ -1,5 +1,9 @@
 # Nose Gear
 
+::: draft
+**DRAFT** — Not yet reviewed.
+:::
+
 ## Description
 
 The nose gear is a retractable, electrically actuated tricycle gear assembly mounted in the nose compartment forward of the F-22 bulkhead. The system consists of a Wilhelmson EZ Nose Lift electric actuator, a builder-fabricated fiberglass strut, a wheel and fork assembly, and a pair of spring-loaded doors that open on extension and close automatically on retraction.

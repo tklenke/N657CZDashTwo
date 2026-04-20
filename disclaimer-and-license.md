@@ -1,5 +1,9 @@
 # Disclaimer and License
 
+::: pending
+**PENDING** — 2026-04-17
+:::
+
 ## Disclaimer
 
 The information in this manual is intended for reference purposes only. Users are responsible for verifying the accuracy and applicability of any information provided. The contributors to this manual are not liable for any consequences resulting from the use or misuse of the information presented.

@@ -1,5 +1,9 @@
 # General Layout and Configuration
 
+::: approved
+**APPROVED** — 2026-04-18
+:::
+
 N657CZ is a four-seat canard pusher of composite construction. This configuration places most of the aircraft's weight aft of the main gear — see [[Nose Gear Tipping Hazard|landing-gear-nose-gear-tipping]] for ground handling implications.
 
 Access to interior systems is through the canopy. Engine compartment access is through the cowling. Components mounted on the forward side of the firewall are accessible by removing the firewall cover panel.

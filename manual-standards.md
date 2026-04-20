@@ -1,5 +1,9 @@
 # Manual Standards
 
+::: approved
+**APPROVED** — 2026-04-17
+:::
+
 This page is the authoritative reference for how this manual is organized and why. It records structural decisions about the manual's scope, section organization, and content placement rules. When a future editor needs to decide where content belongs or how to structure a new page, the answer should be here.
 
 For decisions specific to individual sections, see [[Section Notes|manual-standards-section-notes]].

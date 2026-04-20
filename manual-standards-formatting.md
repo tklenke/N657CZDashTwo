@@ -1,5 +1,9 @@
 # Formatting
 
+::: approved
+**APPROVED** — 2026-04-17
+:::
+
 This page defines formatting conventions for this manual. It covers page naming, callout formats, citations, and cross-references.
 
 ---

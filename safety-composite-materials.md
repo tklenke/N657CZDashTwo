@@ -1,5 +1,9 @@
 # Composite Material Hazards
 
+::: pending
+**PENDING** — 2026-04-18
+:::
+
 The airframe of N657CZ is fiberglass/epoxy composite construction. Routine inspection, surface preparation, and repair work all involve contact with composite materials. Hazards differ depending on whether the material is cured or uncured and what work is being performed.
 
 ## Fiberglass Dust

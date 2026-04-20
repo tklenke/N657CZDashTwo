@@ -1,5 +1,9 @@
 # Fuel Level Sensor Installation
 
+::: pending
+**PENDING** — 2026-04-17
+:::
+
 ## Overview
 
 This procedure covers installation of a Stewart Warner 385B fuel level sender into a fuel tank. Perform this procedure when installing a new sender or reinstalling a sender after tank access.

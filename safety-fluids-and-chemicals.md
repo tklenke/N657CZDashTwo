@@ -1,5 +1,9 @@
 # Fluids and Chemicals
 
+::: approved
+**APPROVED** — 2026-04-18
+:::
+
 Consult the Material Safety Data Sheet (MSDS) for any chemical before using it. Federal law requires manufacturers to provide MSDS documents with health hazard data, first aid information, and handling precautions (AC 43.13, ch01_p018).
 
 The following chemicals are used in routine maintenance of N657CZ.

@@ -1,5 +1,9 @@
 # Weighing Procedures
 
+::: pending
+**PENDING** — 2026-04-17
+:::
+
 ## Overview
 
 This procedure covers weighing N657CZ to establish empty weight and empty weight center of gravity (CG). Accurate leveling in both pitch and roll is critical — errors in aircraft attitude directly produce errors in the CG result.
