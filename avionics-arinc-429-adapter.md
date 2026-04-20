@@ -1,7 +1,7 @@
 # ARINC 429 Adapter (GAD 29)
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: approved
+**APPROVED** — 2026-04-19
 :::
 
 ## Description
@@ -39,7 +39,7 @@ The unit is mounted remotely in the avionics bay forward of the instrument panel
 
 ### Status LED
 
-The GAD 29 has a status LED on the outer case. Verify the LED indicates normal operation on power-up. See GarminG3XInstallationManual_az.pdf, Section 31.1.1 for LED status code definitions.
+The GAD 29 has a status LED on the outer case. Verify the LED indicates normal operation on power-up (GarminG3XInstallationManual_az.pdf, Section 31.1.1).
 
 ### General
 
@@ -49,14 +49,14 @@ Inspect the unit for physical damage, corrosion, and moisture ingress.
 
 The GAD 29 has no complex removal or installation requirements. Removal and installation does not require special tools.
 
-**Removal:**
+### Removal
 
 1. Remove power from the G3X bus (SW11 off).
 2. Disconnect harness connectors P291 and P292.
 3. Remove the four #10-32 mounting screws.
 4. Remove the unit.
 
-**Installation:**
+### Installation
 
 1. Position the unit and install the four #10-32 mounting screws. (GarminG3XInstallationManual_az.pdf, Section 4.5)
 2. Connect harness connectors P291 and P292. Verify each connector is fully seated and latched.
