@@ -29,6 +29,10 @@ Use for pages that describe a system — a functional collection of components w
 ```
 # [System Name]
 
+::: draft
+**DRAFT** — Not yet reviewed.
+:::
+
 ## Description
 What this system does and its role on the aircraft.
 
@@ -62,6 +66,10 @@ The Component page is a reference for the component. Step-by-step procedures bel
 ```
 # [Component Name]
 
+::: draft
+**DRAFT** — Not yet reviewed.
+:::
+
 ## Description
 What it is, what it does, and where it is located on the aircraft.
 Include model/part number if known.
@@ -93,6 +101,10 @@ Use for step-by-step procedures that are too complex for inline treatment on a C
 
 ```
 # [Procedure Name]
+
+::: draft
+**DRAFT** — Not yet reviewed.
+:::
 
 ## Overview
 What this procedure accomplishes and when it should be performed.
@@ -126,9 +138,15 @@ the aircraft or system is in the expected state.
 
 Use for master-list pages that consolidate pointers to procedures elsewhere (e.g., Servicing, Lubrication).
 
-Each entry follows this format:
+Place the status block at the top of the page, after the H1, before the first entry. Each entry follows this format:
 
 ```
+# [Index Page Title]
+
+::: draft
+**DRAFT** — Not yet reviewed.
+:::
+
 ## [Task Name]
 
 **Interval:** [interval description]
