@@ -31,6 +31,4 @@ Inspect the fuel level senders at each condition inspection.
 
 ## Procedures
 
-> **NOTE:** The five-bolt SAE-5 mounting flange appears pentagonally symmetric but is not. Before applying gasket sealant, dry-fit the sender, gasket, and flange together and mark the up and forward orientation on all three parts. Final assembly with sealant leaves no margin to discover a misalignment.
-
 - **Installation**: See [[Fuel Level Sensor Installation|fuel-level-sensor-installation]]

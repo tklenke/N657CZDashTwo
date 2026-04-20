@@ -44,6 +44,8 @@ This procedure covers installation of a Stewart Warner 385B fuel level sender in
 
 5. With the sender, gasket, and flange dry-fitted together, mark the up and forward orientation on all three parts. The five-bolt pattern appears pentagonally symmetric but is not — correct alignment must be confirmed and marked before sealant is applied.
 
+> **NOTE:** Do not skip this step. The bolt pattern looks uniform at a glance — it isn't. During final assembly, all three parts will be coated with wet, tacky sealant. Trying to figure out orientation with slippery parts and a curing clock running is not a situation you want to be in. Mark everything clearly now.
+
 **Installation:**
 
 6. Clean both mating surfaces (sender head and SAE-5 flange) with isopropyl alcohol. Allow to dry.
