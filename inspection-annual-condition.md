@@ -35,37 +35,6 @@ Work on the fuel and ignition systems with the master switch off and fuel valve 
 
 ---
 
-## Life-Limited Items
-
-Complete the following table before beginning the inspection. Verify each item is current. Update due dates/hours after completing any required maintenance.
-
-Items marked @@TOM: require the owner to confirm the authoritative source document (not available in this manual's reference library).
-
-| Item | Interval / Lifetime | Source | Current Due |
-|---|---|---|---|
-| Aircraft cleanliness | Annual | 14 CFR Part 43, Appendix D(a) | — |
-| Seatbelts | @@TOM: verify 10-year interval and source document | — | — |
-| Main battery | @@TOM: verify 4–6 year interval and source document | — | — |
-| ELT batteries | Per 14 CFR 91.207(c) | 14 CFR 91.207(c) | — |
-| ELT remote switch battery | Per 14 CFR 91.207(c) | 14 CFR 91.207(c) | — |
-| 406 MHz ELT re-registration | Check registration expiration date | FCC / ELT manufacturer | — |
-| Transponder/encoder check | 2 years | 14 CFR 91.413 | — |
-| Pitot-static system check | 2 years | 14 CFR 91.411 | — |
-| Magneto (right/left) — 500-hr inspection/rebuild | @@TOM: verify 500-hr interval and source document; confirm current due hours | — | — |
-| Lightspeed EI spark plug ignition wires | @@TOM: verify LSI 500-hr / 10-year interval and source document | — | — |
-| Nose wheel bearing grease | @@TOM: verify 300-hr or tire-replacement interval and source document | — | — |
-| Main wheel bearing grease | @@TOM: verify 300-hr or tire-replacement interval and source document | — | — |
-| Fuel hoses (rubber) | @@TOM: verify 1000-hr / 8-year interval and source document | — | — |
-| Oil hoses (rubber) | @@TOM: verify 1000-hr / 8-year interval and source document | — | — |
-| Brake fluid (MIL-H-5606A) flush/replace | @@TOM: verify 5-year interval and source document | — | — |
-| Alternator belt | @@TOM: verify 5-year interval and source document | — | — |
-| Engine-driven fuel pump | @@TOM: confirm TBO / 10-year lifetime and source document | — | — |
-| Lycoming SB 388C / SI1485A | @@TOM: verify 400-hr / 1000-hr interval and confirm applicability to this engine serial number | — | — |
-| Electric fuel pump filter | @@TOM: verify 500-hr / 2-year interval and source document | — | — |
-| Oxygen cylinder recertification | 5 years (standard-weight DOT 3AA 1800); 3 years (lightweight DOT 3HT 1850) | AC 43.13, ch09_p051 | — |
-
----
-
 ## Inspection Checklist
 
 ### Documents and Placards
@@ -502,7 +471,7 @@ Items marked @@TOM: require the owner to confirm the authoritative source docume
 
 ### Servicing
 
-Verify all applicable scheduled servicing tasks are completed or scheduled. See [[Servicing|servicing]] in Section 6.
+Verify all applicable scheduled servicing tasks are completed or scheduled, and review life-limited items for anything coming due. See [[Servicing|servicing]] in Section 6.
 
 ---
 
