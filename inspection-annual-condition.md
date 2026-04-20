@@ -6,12 +6,7 @@
 
 ## Overview
 
-The annual condition inspection satisfies the requirement of 14 CFR Part 91.409(e) for experimental amateur-built aircraft. It is conducted by the owner or by any appropriately rated A&P mechanic. The inspection follows the checklist structure established by Marc J. Zeitlin A&P #3052594, adapted and filtered to the N657CZ configuration.
-
-This page has two parts:
-
-- **Part 1 — Inspection Checklist**: Area-by-area checklist items filtered to the N657CZ configuration (COZY Mark IV with Roncz canard, Lycoming IO-360, Airflow Performance fuel injection, Lightspeed electronic ignition, Garmin G3X avionics).
-- **Part 2 — Annual Servicing Addendum**: Cross-reference list of servicing tasks typically completed at annual inspection time.
+The annual condition inspection satisfies the requirement of 14 CFR Part 91.409(e) for experimental amateur-built aircraft. It is conducted by the owner or by any appropriately rated A&P mechanic. The inspection follows the checklist structure established by Marc J. Zeitlin A&P #3052594, adapted and filtered to the N657CZ configuration (COZY Mark IV with Roncz canard, Lycoming IO-360, Airflow Performance fuel injection, Lightspeed electronic ignition, Garmin G3X avionics).
 
 ## Tools and Materials Required
 
@@ -71,7 +66,7 @@ Items marked @@TOM: require the owner to confirm the authoritative source docume
 
 ---
 
-## Part 1 — Inspection Checklist
+## Inspection Checklist
 
 ### Documents and Placards
 
@@ -505,6 +500,12 @@ Items marked @@TOM: require the owner to confirm the authoritative source docume
 
 ---
 
+### Servicing
+
+Verify all applicable scheduled servicing tasks are completed or scheduled. See [[Servicing|servicing]] in Section 6.
+
+---
+
 ### Operations
 
 *Perform with aircraft back on the ground, all access panels installed.*
@@ -529,10 +530,3 @@ Items marked @@TOM: require the owner to confirm the authoritative source docume
 - **Fuel selector** — Check for engine cutoff in OFF position
 - **Engine area (after shutdown)** — Check for fuel, oil, or hydraulic leaks
 - **Cowling** — Reinstall; check security
-- **Annual servicing addendum** — Verify all applicable tasks in [[Servicing|servicing]] in Section 6 are completed or scheduled
-
----
-
-## Part 2 — Annual Servicing Addendum
-
-See [[Servicing|servicing]] in Section 6 for the full list of scheduled servicing tasks and their intervals.
