@@ -471,7 +471,8 @@ Work on the fuel and ignition systems with the master switch off and fuel valve 
 
 ### Servicing
 
-Verify all applicable scheduled servicing tasks are completed or scheduled, and review life-limited items for anything coming due. See [[Servicing|servicing]] in Section 6.
+- Complete all applicable scheduled servicing tasks. See [[Servicing|servicing]] in Section 6.
+- Check [[Life-Limited Items|servicing#life-limited-items]] in Section 6 for items coming due.
 
 ---
 
