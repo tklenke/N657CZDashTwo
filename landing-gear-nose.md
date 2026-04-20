@@ -1,7 +1,7 @@
 # Nose Gear
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-19
 :::
 
 ## Description
@@ -35,7 +35,7 @@ The nose gear doors are spring-loaded closed using tension springs (screen door 
 
 @@TOM: Verify door spring specifications and attachment details for N657CZ. Builder notes indicate springs are typically 5/16"–3/8" diameter, approximately 6" unstretched length, 0.045–0.050" wire gauge, approximately 3–7 lb/in spring rate. Hardware sources include Century Spring, Lee Spring, or equivalent screen door extension springs.
 
-If a door spring fails, the door may remain open in flight, resulting in increased drag. This is not a flight hazard but should be corrected before the next flight.
+If a door spring fails, the door may remain open in flight, resulting in increased drag. Correct before the next flight.
 
 > **NOTE:** Safety wire the spring attachment points to prevent a broken spring from becoming a loose object in the nose compartment.
 
