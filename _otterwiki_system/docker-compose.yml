@@ -1,0 +1,24 @@
+services:
+  otterwiki:
+    image: redimp/otterwiki:2
+    container_name: otterwiki
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    volumes:
+      # Maps the current directory for system data
+      - .:/app-data
+
+      # Maps the project folder located one level above
+      - ..:/app-data/repository
+
+      # Maps specific files within the 'custom' sub-directory
+      - ./custom/customBody.html:/app/otterwiki/static/custom/customBody.html
+      - ./custom/custom.css:/app/otterwiki/static/custom/custom.css
+    environment:
+      # Change 'super-secret-key-here' to a long random string
+      - SECRET_KEY=super-secret-key-here
+      - SITE_NAME=N657CZDashTwo Wiki
+      # Matches your 'tom' user ID in Debian
+      - PUID=1000
+      - PGID=1000

@@ -4,6 +4,18 @@ This repository contains the maintenance manual for N657CZ, a Cozy Mark IV exper
 
 The manual is served as a wiki using [OtterWiki](https://otterwiki.com). Pages are written in Markdown and organized by aircraft system.
 
+## Running the Wiki
+
+Prerequisites: [Docker](https://docs.docker.com/get-docker/) and Docker Compose installed.
+
+```bash
+git clone https://github.com/tklenke/N657CZDashTwo.git
+cd N657CZDashTwo/_otterwiki_system
+docker-compose up -d
+```
+
+The wiki will be available at [http://localhost:8080](http://localhost:8080).
+
 ## Agent-Assisted Development
 
 This manual was developed using a set of Claude AI agents defined in the companion repository [ea_mxmanual](https://github.com/tklenke/ea_mxmanual). That repository contains the planning documents, writing standards, content plans, and role definitions used to build and maintain this manual. If you want to use a similar agent-assisted workflow for your own aircraft manual, start there.

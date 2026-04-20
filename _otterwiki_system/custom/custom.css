@@ -1,0 +1,25 @@
+/*
+ * custom.css
+ * Loaded media="screen" only — print styles are in customBody.html.
+ */
+
+.alert-draft {
+    background-color: #fff8e1;
+    border-left: 4px solid #f9a825;
+    color: #5d4037;
+    padding: 0.0rem 0.75rem;
+}
+
+.alert-pending {
+    background-color: #f3e5f5;
+    border-left: 4px solid #7b1fa2;
+    color: #4a148c;
+    padding: 0.0rem 0.75rem;
+}
+
+.alert-approved {
+    background-color: #e8f5e9;
+    border-left: 4px solid #2e7d32;
+    color: #1b5e20;
+    padding: 0.0rem 0.75rem;
+}

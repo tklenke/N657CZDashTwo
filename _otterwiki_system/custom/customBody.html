@@ -1,0 +1,45 @@
+<style>
+#custom-footer {
+    text-align: right;
+    margin-top: 50px;
+    padding: 20px;
+    border-top: 1px solid #eee;
+    font-size: 0.85em;
+}
+
+@media print {
+    #custom-footer {
+        display: block !important;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        border-top: 1px dashed #000;
+        padding: 5px 10px 5px 40px;
+        background: white;
+        text-align: left;
+    }
+}
+</style>
+
+<div id="custom-footer" class="text-muted">
+    <span id="last-modified-label">Last edited: </span>
+    <span id="last-modified-date">Loading...</span>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var lastMod = new Date(document.lastModified);
+    if (!isNaN(lastMod.getTime())) {
+        var yyyy = lastMod.getFullYear();
+        var mm = String(lastMod.getMonth() + 1).padStart(2, '0');
+        var dd = String(lastMod.getDate()).padStart(2, '0');
+        var hh = String(lastMod.getHours()).padStart(2, '0');
+        var min = String(lastMod.getMinutes()).padStart(2, '0');
+        document.getElementById('last-modified-date').textContent =
+            yyyy + '-' + mm + '-' + dd + ' ' + hh + ':' + min;
+    } else {
+        document.getElementById('custom-footer').style.display = 'none';
+    }
+});
+</script>
