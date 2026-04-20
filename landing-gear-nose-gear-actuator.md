@@ -1,7 +1,7 @@
 # Nose Gear Actuator
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-19
 :::
 
 ## Description
