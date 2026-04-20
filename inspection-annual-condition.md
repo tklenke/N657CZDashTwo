@@ -529,24 +529,10 @@ Items marked @@TOM: require the owner to confirm the authoritative source docume
 - **Fuel selector** — Check for engine cutoff in OFF position
 - **Engine area (after shutdown)** — Check for fuel, oil, or hydraulic leaks
 - **Cowling** — Reinstall; check security
+- **Annual servicing addendum** — Verify all applicable tasks in [[Servicing|servicing]] in Section 6 are completed or scheduled
 
 ---
 
 ## Part 2 — Annual Servicing Addendum
 
-The following servicing tasks are typically completed at or around the annual condition inspection. This list is a cross-reference only — procedures are on the linked pages.
-
-| Task | Interval | Section |
-|---|---|---|
-| Engine oil and filter change | Annual (or per oil analysis results) | See [[Oil System\|powerplant-oil-system]] in Section 14 |
-| Engine oil analysis sample | Annual | See [[Oil System\|powerplant-oil-system]] in Section 14 |
-| Cylinder compression and borescope inspection | Annual | See [[Engine\|powerplant-engine]] in Section 14 |
-| Spark plug cleaning, inspection, and gapping | Annual | See [[Ignition System\|powerplant-ignition-system]] in Section 14 |
-| Fuel injector restrictor cleaning | At 500 hr, then every 100 hr or each CI | See [[Pumps and Valves\|fuel-pumps-and-valves]] in Section 15 |
-| Crankcase vent PCV valve cleaning | Every 100 hr or each CI | See [[Oil System\|powerplant-oil-system]] in Section 14 |
-| Air filter inspection | Annual | See [[Engine\|powerplant-engine]] in Section 14 |
-| Nose wheel bearing regreasing | 300 hr or at tire replacement | See [[Nose Gear\|landing-gear-nose]] in Section 13 |
-| Main wheel bearing regreasing | 300 hr or at tire replacement | See [[Main Landing Gear\|landing-gear-main]] in Section 13 |
-| Brake fluid check | Annual visual check | See [[Brake System\|landing-gear-brake-system]] in Section 13 |
-| ELT battery check and functional test | Per 14 CFR 91.207(c) and (d) | See [[Emergency Locator Transmitter (ELT)\|emergency-elt]] in Section 11 |
-| Oxygen system inspection and cylinder recertification check | Annual inspection; 5-year hydrostatic test (AC 43.13, ch09_p051) | See [[Oxygen System\|cabin-oxygen-system]] in Section 10 |
+See [[Servicing|servicing]] in Section 6 for the full list of scheduled servicing tasks and their intervals.
