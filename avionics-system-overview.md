@@ -1,7 +1,7 @@
 # G3X System Overview
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: approved
+**APPROVED** — 2026-04-19
 :::
 
 ## Description
@@ -35,7 +35,7 @@ The diagram below shows the data bus and electrical interconnections between G3X
 
 The GDU 460 is the central display and configuration interface for the suite. The GSU 25C provides air data (airspeed, altitude, vertical speed) and attitude and heading reference to the GDU 460. The GMU 11 supplies magnetometer data to the GSU 25C for heading reference. The GEA 24 acquires engine and system sensor data and forwards it to the GDU 460 for display.
 
-The GPS 20A provides WAAS GPS position data to the GDU 460 and GNC 355. The GTX 45R transponder sends and receives ADS-B traffic and weather data, displayed on the GDU 460. The autopilot (GMC 507 and GSA 28 servos) receives flight director guidance from the GDU 460.
+The GTX 45R transponder sends and receives ADS-B traffic and weather data, displayed on the GDU 460. The autopilot (GMC 507 and GSA 28 servos) receives flight director guidance from the GDU 460.
 
 The G3X bus is fed from the endurance bus. The G5 backup instruments, GNC 355, GMU 11, and GMA 245 are powered directly from the endurance bus and remain operational if the G3X bus loses power.
 
@@ -45,6 +45,5 @@ System-level inspection is performed as part of the annual condition inspection.
 
 - All LRUs power on without fault or alert messages on the GDU 460
 - GDU 460 self-test completes without alerts
-- GSU 25C AHRS aligns within approximately 1 minute on power-up
+- Verify no red X's appear on any display or sub-display and no persistent system messages remain
 - Engine data is present and plausible on the GDU 460 after engine start
-- No persistent system messages remain after normal power-on sequence
