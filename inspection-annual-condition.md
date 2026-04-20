@@ -245,6 +245,7 @@ Items marked @@TOM: require the owner to confirm the authoritative source docume
 
 *Access: Remove front seats, front armrests, front center console cover, fuel valve cover, and all access panels.*
 
+- **Fuselage side access door** — Check condition
 - **Seatbelts** — Check condition
 - **Electric seat heaters** — @@TOM: confirm whether front seat heaters are installed — Check condition and operation
 - **Control sticks** — Check condition; lubricate if necessary
