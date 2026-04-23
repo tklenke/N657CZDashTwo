@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-@@TOM: Confirm source manual and section for GMU 11 connector pinout data.
+Connector pinout data from G3XInstallationManual_RevAZ.pdf, Section 23.10.
 
 ## J111 — DE9
 

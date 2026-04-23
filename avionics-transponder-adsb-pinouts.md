@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-@@TOM: Confirm source manual and section for GTX 45R connector pinout data.
+Connector pinout data from GTX45RInstallManual_Rev03.pdf, Section 5.1.
 
 ## P3251 — DB62
 

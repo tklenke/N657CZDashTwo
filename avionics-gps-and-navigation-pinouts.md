@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-@@TOM: Confirm source manual and section for GNC 355 connector pinout data.
+Connector pinout data from GNC355_InstallManual_Rev01.pdf, Appendix.
 
 ## J3551 — DB62
 

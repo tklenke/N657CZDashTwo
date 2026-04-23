@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-@@TOM: Confirm source manual and section for GEA 24 connector pinout data.
+Connector pinout data from G3XInstallationManual_RevAZ.pdf, Section 23.4.
 
 ## J241 — DE9
 

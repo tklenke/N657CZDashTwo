@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-@@TOM: Confirm source manual and section for GTR 20 connector pinout data.
+Connector pinout data from G3XInstallationManual_RevAZ.pdf, Section 23.16.
 
 ## J2001 — DB37
 

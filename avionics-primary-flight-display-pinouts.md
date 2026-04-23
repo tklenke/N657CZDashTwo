@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-@@TOM: Confirm source manual and section for GDU 460 connector pinout data.
+Connector pinout data from G3XInstallationManual_RevAZ.pdf, Section 23.3.
 
 ## P4X01 — DE9
 

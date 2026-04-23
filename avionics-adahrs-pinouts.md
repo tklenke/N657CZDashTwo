@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-@@TOM: Confirm source manual and section for GSU 25C connector pinout data.
+Connector pinout data from G3XInstallationManual_RevAZ.pdf, Section 23.14.
 
 ## J251 — DE9
 

@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-@@TOM: Confirm source manual and section for GMA 245 connector pinout data.
+Connector pinout data from GMA245InstallManualRev13.pdf, Section 4.2.
 
 ## J2401 — DB44
 

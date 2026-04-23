@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-@@TOM: Confirm source manual and section for GMC 507 and GSA 28 connector pinout data.
+Connector pinout data from G3XInstallationManual_RevAZ.pdf, Sections 23.9 (GMC 507) and 23.13 (GSA 28).
 
 ## J7001 — GMC 507 Mode Controller (DE15)
 

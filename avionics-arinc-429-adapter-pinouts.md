@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-Connector pinout data from GarminG3XInstallationManual_az.pdf, Section 23.2. Harness connectors P291 and P292 mate to unit connectors J291 and J292 respectively.
+Connector pinout data from G3XInstallationManual_RevAZ.pdf, Section 23.2. Harness connectors P291 and P292 mate to unit connectors J291 and J292 respectively.
 
 ## J291 — 9-pin D-sub
 

@@ -4,7 +4,7 @@
 **DRAFT** — Not yet reviewed.
 :::
 
-@@TOM: Confirm source manual and section for G5 connector pinout data.
+Connector pinout data from G5InstallationManualRev8.pdf, Appendix A.
 
 ## J51 — DE9
 
