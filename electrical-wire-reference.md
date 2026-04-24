@@ -1,7 +1,7 @@
 # Wire Cross-Reference
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: approved
+**APPROVED** — 2026-04-23
 :::
 
 Complete wire list for N657CZ, generated from the electrical schematic (revision 4). Each wire is identified by its label at both termination points.
