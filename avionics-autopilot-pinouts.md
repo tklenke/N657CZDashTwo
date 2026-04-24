@@ -1,7 +1,7 @@
 # Autopilot Connector Pinouts (GMC 507 / GSA 28)
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-23
 :::
 
 Connector pinout data from G3XInstallationManual_RevAZ.pdf, Sections 23.9 (GMC 507) and 23.13 (GSA 28).

@@ -1,7 +1,7 @@
 # GPS and Navigation Connector Pinouts (GNC 355)
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-23
 :::
 
 Connector pinout data from GNC355_InstallManual_Rev01.pdf, Appendix.

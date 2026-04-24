@@ -1,7 +1,7 @@
 # Audio Panel Connector Pinouts (GMA 245)
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-23
 :::
 
 Connector pinout data from GMA245InstallManualRev13.pdf, Section 4.2.

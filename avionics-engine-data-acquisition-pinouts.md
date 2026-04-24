@@ -1,7 +1,7 @@
 # Engine Data Acquisition Connector Pinouts (GEA 24)
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-23
 :::
 
 Connector pinout data from G3XInstallationManual_RevAZ.pdf, Section 23.4.

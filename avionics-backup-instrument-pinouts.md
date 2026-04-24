@@ -1,7 +1,7 @@
 # Backup Instrument Connector Pinouts (G5)
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-23
 :::
 
 Connector pinout data from G5InstallationManualRev8.pdf, Appendix A.

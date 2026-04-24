@@ -1,7 +1,7 @@
 # ARINC 429 Adapter Connector Pinouts (GAD 29)
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-23
 :::
 
 Connector pinout data from G3XInstallationManual_RevAZ.pdf, Section 23.2. Harness connectors P291 and P292 mate to unit connectors J291 and J292 respectively.

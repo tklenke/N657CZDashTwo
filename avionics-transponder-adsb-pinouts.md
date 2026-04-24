@@ -1,7 +1,7 @@
 # Transponder and ADS-B Connector Pinouts (GTX 45R)
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-23
 :::
 
 Connector pinout data from GTX45RInstallManual_Rev03.pdf, Section 5.1.
