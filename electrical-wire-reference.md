@@ -10,7 +10,7 @@ For the wire labeling convention, see [[Wire Marking Standard|electrical-wire-ma
 
 > **NOTE:** The Gauge column reflects the design gauge from the schematic. Where the schematic could not determine the circuit current, gauge is shown as —. The Notes column records any discrepancy between schematic-specified and installed gauge. Pin numbers in the source schematic are schematic symbol pins, not physical connector pins — for physical connector pin assignments, see the relevant component's pinouts page.
 
-<!-- Source: docs/references/electrical/wire_bom.csv rev 4 (2026-04-23). When the schematic is revised and a new wire_bom.csv is generated, regenerate this table from the updated CSV. -->
+<!-- Source: docs/references/electrical/wire_bom.csv rev 4 (2026-04-23), corrected 2026-04-23 (6 wires: E40A, E41A, G106A, P20A, P22D, P51A). When the schematic is revised and a new wire_bom.csv is generated, regenerate this table from the updated CSV. -->
 
 ## A — Avionics
 
@@ -39,9 +39,9 @@ For the wire labeling convention, see [[Wire Marking Standard|electrical-wire-ma
 | `E23A` | Shunt 2 (GEA 24) | Shunt | 24 | Brown | 37.4 |  |
 | `E31A` | Shunt 2 (GEA 24) | Fuse Link (FLK-1) | 24 | Brown | 38.3 | 20AWG |
 | `E32A` | Shunt 2 (GEA 24) | Fuse Link (FLK-1) | 24 | Brown | 39.3 |  |
-| `E40A` | Starter Contactor | Inline Fuse (IFH-2) | 6 | Brown | 34.4 | 4AWG > 6in |
+| `E40A` | Starter Contactor | ANL Current Limiter (60A) | 6 | Brown | 32.8 | > 6in 4AWG |
 | `E40B` | Starter Contactor | Starter (BCS206-149-12) | 6 | Brown | 85.6 | 4AWG |
-| `E41A` | Main Bus | E IGN Switch | 20 | Brown | 61.3 |  |
+| `E41A` | Battery Bus | E IGN Switch | 20 | Brown | 116.2 | 20AWG |
 | `E41B` | Electronic Ignition (Plasma III) | E IGN Switch | 20 | Brown | 114.4 | 20AWG |
 | `E42A` | Main Bus | E IGN Switch | — | Brown | 61.3 |  |
 | `E42B` | M IGN Switch | E IGN Switch | — | Brown | 25.0 |  |
@@ -75,7 +75,7 @@ For the wire labeling convention, see [[Wire Marking Standard|electrical-wire-ma
 | `G103A` | Backup ASI (G5) | Panel Ground | 24 | Black | 44.5 |  |
 | `G104A` | Panel Ground | Audio Pnl w/ USB (GMA 245) | 22 | Black | 52.4 |  |
 | `G105A` | VHF Comm1 (GTR 20) | Panel Ground | 18 | Black | 61.1 |  |
-| `G106A` | Battery Contactor (S701-1) | Inline Fuse (IFH-2) | 24 | Black | 38.4 | 4AWG > 6in |
+| `G106A` | Battery Contactor (S701-1) | Fuselink | 24 | Black | 145.0 | 4AWG > 6in |
 | `G107A` | ADAHRS (GSU 25) | Panel Ground | 24 | Black | 49.5 |  |
 | `G108A` | Battery Contactor (S701-1) | BATT/ALT DC POWER Switch | 24 | Black | 126.7 | 22AWG |
 | `G109A` | PFD 10in (GDU 460) | Panel Ground | 24 | Black | 49.0 |  |
@@ -161,13 +161,13 @@ For the wire labeling convention, see [[Wire Marking Standard|electrical-wire-ma
 | `P11A` | Battery Contactor | Battery Contactor | 24 | Red | 24.0 |  |
 | `P13A` | Main Bus | Diode | — | Red | 40.9 | 4AWG > 6in |
 | `P14A` | Battery Bus | Battery Contactor | 24 | Red | 50.0 | 14 AWG (>6 in) |
-| `P20A` | Fuselink | Diode | 20 | Red | 40.0 | 4AWG > 6in |
+| `P20A` | Main Bus | Fuselink | 20 | Red | 24.9 | 4AWG > 6in |
 | `P20B` | Fuselink | ALT FLD Breaker (5A) | 20 | Red | 68.8 | 18AWG |
 | `P20D` | BATT/ALT DC POWER Switch | Voltage Regulator (LRE1B-14) | 20 | Red | 124.1 | 20AWG |
 | `P22A` | Alt LED | Voltage Regulator (LRE1B-14) | 20 | Red | 25.0 |  |
 | `P22B` | Alt LED | Voltage Regulator (LRE1B-14) | 20 | Red | 25.0 |  |
 | `P22C` | Inline Fuse (IFH-2) | Voltage Regulator (LRE1B-14) | 20 | Red | 25.0 |  |
-| `P22D` | Battery Contactor | Inline Fuse (IFH-2) | 20 | Red | 38.4 | 4AWG > 6in |
+| `P22D` | Starter Contactor | Inline Fuse (IFH-2) | 20 | Red | 34.4 | 4AWG |
 | `P23A` | Alternator (Main) | Voltage Regulator (LRE1B-14) | 22 | Red | 96.8 | 20AWG |
 | `P24A` | Alternator (Main) | Main Alt Shunt | 24 | Red | 89.9 | 4AWG |
 | `P24B` | Main Alt Shunt | ANL Current Limiter (60A) | 24 | Red | 25.1 | 4AWG |
@@ -179,7 +179,7 @@ For the wire labeling convention, see [[Wire Marking Standard|electrical-wire-ma
 | `P32A` | Voltage Regulator (PMR1D) | Alternator (Alt) | 18 | Red | 54.9 |  |
 | `P33A` | Voltage Regulator (PMR1D) | Aux Alt Off/On Switch | — | Red | 110.8 |  |
 | `P34A` | Filter Capacitor | Voltage Regulator (PMR1D) | — | Red | 25.0 |  |
-| `P51A` | Battery Bus | Brownout Battery Relay | 16 | Red | 141.3 |  |
+| `P51A` | Battery Bus | Brownout Battery Relay | 16 | Red | 141.3 | 20AWG |
 | `P51B` | Brownout Battery Relay | Brownout Battery (EXT104/EBBS) | 16 | Red | 35.8 | 14AWG |
 | `P52A` | Inline Fuse (IFH-2) | Brownout Battery (EXT104/EBBS) | 16 | Red | 33.3 |  |
 | `P52B` | Endurance Bus Relay | Inline Fuse (IFH-2) | 16 | Red | 25.3 |  |
