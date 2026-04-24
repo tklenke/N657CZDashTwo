@@ -116,7 +116,7 @@ This manual covers inspection and maintenance procedures for N657CZ, a Cozy Mark
 ## 16. Electrical System
 
 - [[Batteries|electrical-batteries]]
-- [[Bus Architecture|electrical-bus-architecture]]
+- [[Bus Architecture and Schematics|electrical-bus-architecture]]
 - [[Circuit Protection|electrical-circuit-protection]]
 - [[Lighting|electrical-lighting]]
 - [[Switches and Controls|electrical-switches-and-controls]]
