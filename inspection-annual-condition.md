@@ -1,7 +1,7 @@
 # Annual Condition Inspection
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-23
 :::
 
 ## Overview
@@ -106,21 +106,13 @@ Work on the fuel and ignition systems with the master switch off and fuel valve 
 - **Battery charge port** — Check condition and wire connections
 - **Piper battery jumper connector** — Check condition
 - **Jumper solenoid and switch** — Check condition and operation
-- **Master solenoid** — Check condition
-- **Starter solenoid** — Check condition
-- **Voltage regulator** — Check condition; test OV protection (B&C: pin 6 to pin 2)
-- **Ammeter shunt / sensor coil** — Check condition and wiring
 - **Nose gear cover** — Check attachment and weather seal
 - **Nose gear mechanism (Wilhelmson pivot bolts)** — Check condition and operation; lubricate and grease if necessary
 - **ADS-B receiver (Garmin)** — Check condition, attachment, and cable
-- **Altitude encoder** — Check condition
 - **Antennas and EFIS boxes** — Check condition, attachment, and cables
-- **GPS antenna** — Check attachment and cable
 - **Transponder antenna** — Check attachment and cable
-- **GPS antenna (Garmin GA 35)** — @@TOM: confirm this is the correct antenna model — Check attachment and cable
+- **GPS antenna (Garmin GA 35)** — Check attachment and cable
 - **Magnetometer (Garmin GMU 11)** — Check condition
-- **ELT mounting** — Check condition
-- **ELT operation** — Check per 14 CFR 91.207(d)
 - **Nose area wiring** — Check condition and tie-wraps
 - **Rudder pedals (left and right)** — Check condition; lubricate if necessary
 - **Rudder pedal brake actuators (left and right)** — Check condition and geometry
@@ -155,14 +147,12 @@ Work on the fuel and ignition systems with the master switch off and fuel valve 
 - **Alarm relay** — Check condition
 - **Piezo alarm buzzer** — Check condition
 - **Dimmer circuitry** — Check condition
-- **Manifold pressure sensor** — Check condition
 - **Pitch trim motor, extension screw, and relay** — Check condition; clean and lubricate per manual
 - **Manual pitch trim** — Check condition
 - **AP pitch servo** — Check condition and wiring
 - **Nose gear emergency extend mechanism** — Check condition
 - **Circuit breakers** — Check condition and wiring
 - **Power panel** — Check condition and wiring
-- **Ammeter shunt / sensor coil** — Check condition and wiring
 - **Switch wiring** — Check condition
 - **Instrument wiring** — Check condition
 - **Strobe power supply** — Check condition
@@ -222,9 +212,6 @@ Work on the fuel and ignition systems with the master switch off and fuel valve 
 - **Instrument panel operation** — Check all switches, instruments, and avionics operational
 - **Primer / primer lines** — Check condition
 - **Landing light (fixed)** — Check condition and operation
-- **Altitude encoder** — Check condition
-- **ELT mounting** — Check condition
-- **ELT operation** — Check per 14 CFR 91.207(d)
 - **G5 backup battery** — Test capacity
 - **EFIS ADAHRS** — Check condition and wiring
 - **EFIS magnetometer** — Check condition and wiring
@@ -274,7 +261,6 @@ Work on the fuel and ignition systems with the master switch off and fuel valve 
 - **Brake lines and bulkhead fittings** — Check condition
 - **Cabin heat valve** — Check condition
 - **Firewall through holes** — Check condition
-- **Manifold pressure sensor** — Check condition
 - **Rear ground bus** — Check condition
 - **Rear essential bus** — Check condition
 - **Master solenoid** — Check condition
@@ -365,7 +351,6 @@ Work on the fuel and ignition systems with the master switch off and fuel valve 
 - **Engine case bolts** — Check condition and torque
 - **AP roll servo** — Check condition and wiring
 - **Firewall ground bus** — Check condition
-- **Voltage regulator** — Check condition; test OV protection (B&C: pin 6 to pin 2)
 - **Alternator mounting** — Check condition
 - **Starter mounting / flywheel and gear teeth** — Check condition
 - **Alternator / starter wiring** — Check condition
@@ -374,11 +359,9 @@ Work on the fuel and ignition systems with the master switch off and fuel valve 
 
 - **Magneto / wiring** — Check condition and timing
 - **Lightspeed EI coils** — Check condition
-- **Ammeter shunt / sensor coil** — Check condition
 - **Ignition wires** — Check condition
 - **EGT probes / wires** — Check condition
 - **CHT probes / wires** — Check condition
-- **Starter solenoid** — Check condition
 
 **Fuel System (Engine):**
 
@@ -436,6 +419,7 @@ Work on the fuel and ignition systems with the master switch off and fuel valve 
 
 - **Exhaust system** — Check condition
 - **Heat muff / SCAT tubing** — Check condition
+- **Manifold pressure sensor** — Check condition
 - **Manifold pressure sensor tubing** — Check condition
 - **Air filter box** — Check condition
 - **Air filter** — Check condition
