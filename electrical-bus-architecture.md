@@ -81,3 +81,5 @@ The electrical schematic is divided into four sheets. Each sheet can be printed 
 | [[Avionics|electrical-schematic-avionics]] | Power and ground wiring for the G3X avionics suite and associated LRUs |
 | [[Alarm and Lighting|electrical-schematic-alarm-lighting]] | Interior and exterior lighting, warning indicators, and related controls |
 | [[Mechanical Systems|electrical-schematic-mechanical]] | Actuators, fuel system, ignition, and other mechanical system loads |
+
+For a complete indexed wire list, see [[Wire Cross-Reference|electrical-wire-reference]].
