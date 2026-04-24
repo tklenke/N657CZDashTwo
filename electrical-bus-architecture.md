@@ -1,10 +1,10 @@
 # Bus Architecture and Schematics
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: approved
+**APPROVED** — 2026-04-23
 :::
 
-N657CZ uses a four-bus electrical architecture: Battery Bus, Endurance Bus, Main Bus, and G3X Bus. Each bus serves a distinct role in the load-shedding philosophy that governs the aircraft's electrical system design.
+N657CZ uses a four-bus electrical architecture: Battery Bus, Endurance Bus, Main Bus, and G3X Bus. Each bus serves a distinct role in the load-shedding philosophy that governs the aircraft's electrical system design. Fuse holders (FH) distribute power to each bus; individual components are referenced by their schematic Line Replaceable Unit (LRU) designator.
 
 ## Battery Bus (FH1)
 
@@ -15,7 +15,7 @@ The key design decision is placing the electronic ignition (Plasma III) on the B
 | Item | Reference |
 |------|-----------|
 | Electronic Ignition | LRU6 (Plasma III) |
-| Dome Lights | LRU81 |
+| Interior Lighting Controller | LRU81 |
 | Canopy Actuator | LRU14 |
 | Endurance Bus Feed | via relay R2 |
 
@@ -29,7 +29,7 @@ When the Endurance Bus is in use in battery-only mode, the pilot switches off al
 
 | Item | Reference |
 |------|-----------|
-| G3X Bus (feeds GDU 460, GEA 24, GAD 29, GSU 25C) | FH6 feed |
+| G3X Bus (feeds GDU 460, GEA 24, GAD 29, GSU 25) | FH6 feed |
 | VHF Comm 1 | LRU21 (GTR 20) |
 | Audio Panel | LRU22 (GMA 245) |
 | Transponder / ADS-B | LRU28 (GTX 45R) |
@@ -60,14 +60,14 @@ The Main Bus carries all equipment not assigned to the Battery or Endurance Bus 
 
 ## G3X Bus (FH6)
 
-The G3X Bus is a switched fuse block that distributes power to the core G3X LRUs. It is fed from the Endurance Bus, so the G3X suite (PFD, engine monitor, ARINC adapter, and ADAHRS) remains operational in battery-only mode.
+The G3X Bus is a switched fuse block that distributes power to the core G3X LRUs. It is fed from the Endurance Bus, so the G3X suite (PFD, engine monitor, ARINC adapter, and ADAHRS (Air Data, Attitude, and Heading Reference System)) remains operational in battery-only mode.
 
 | Item | Reference |
 |------|-----------|
 | Primary Flight Display | LRU33 (GDU 460) |
 | Engine Data Acquisition | LRU32 (GEA 24) |
 | ARINC 429 Adapter | LRU24 (GAD 29) |
-| ADAHRS | LRU27 (GSU 25C) |
+| ADAHRS | LRU27 (GSU 25) |
 
 The VHF Comm 1 (GTR 20), Audio Panel (GMA 245), Transponder (GTX 45R), G5, GMU 11, and GNC 355 Nav are powered directly from the Endurance Bus rather than the G3X Bus, so they remain operational independently of the G3X Bus state.
 
