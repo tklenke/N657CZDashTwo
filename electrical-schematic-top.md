@@ -1,7 +1,7 @@
 # Top-Level Electrical Schematic
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: approved
+**APPROVED** — 2026-04-23
 :::
 
 Top-level sheet of the N657CZ electrical schematic. Shows the overall power distribution architecture: main bus, endurance bus, battery bus, and G3X bus, with connections to sub-sheets. See [[Bus Architecture and Schematics|electrical-bus-architecture]] for a description of the bus architecture.
