@@ -1,7 +1,7 @@
 # Alarm and Lighting System Electrical Schematic
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: approved
+**APPROVED** — 2026-04-23
 :::
 
 Alarm and lighting sub-sheet of the N657CZ electrical schematic. Shows wiring for interior and exterior lighting, warning indicators, and related controls.
