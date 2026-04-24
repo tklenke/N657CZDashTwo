@@ -1,7 +1,7 @@
 # Wire Marking Standard
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: approved
+**APPROVED** — 2026-04-23
 :::
 
 All wiring on N657CZ uses the EA wire marking standard described on this page. Wire labels appear at both ends of each wire segment and follow a three-part format.
@@ -13,26 +13,25 @@ A wire label consists of up to three parts:
 | Part | Description | Length | Example |
 |------|-------------|--------|---------|
 | System Code | Identifies the major system the wire belongs to | 1 character | `L` |
-| Circuit ID | Unique circuit number, matching the master schematic net name | 3–5 characters | `105` |
+| Circuit ID | Unique circuit number, matching the master schematic net name | 2–4 characters | `10` |
 | Segment ID | Sequential letter identifying physical segments within the same net | 1 character (optional) | `A` |
 
-**Full label example:** `L105A`
+**Full label example:** `L10A`
 - `L` — Lighting system
-- `105` — Circuit 105 (Landing Light Power net)
-- `A` — First physical segment of that net
+- `10` — Circuit 10 (Landing/Taxi Light Power circuit)
+- `A` — First physical segment of that circuit
 
 ### Segment ID Usage
 
 A single electrical net often spans multiple physical wire segments separated by switches, fuses, or connectors. Each segment receives the same System Code and Circuit ID, with a different Segment ID letter.
 
-**Example — Landing Light circuit (net L105):**
+**Example — Landing/Taxi Light circuit (L10):**
 
 | Segment | Label | Wire Run |
 |---------|-------|----------|
-| Bus to circuit breaker | `L105A` | Main Bus → CB-105 |
-| Circuit breaker to switch | `L105B` | CB-105 → SW-105 |
-| Switch to landing light | `L105C` | SW-105 → Landing Light |
-| Landing light to ground | `L105D` | Landing Light → Ground Point |
+| Bus to switch | `L10A` | Main Bus → Landing Light Taxi Switch |
+| Switch to landing light | `L10B` | Landing Light Taxi Switch → Landing Light |
+| Switch to taxi light | `L10C` | Landing Light Taxi Switch → Taxi Light |
 
 If more than 26 segments are needed, extend with two-letter suffixes: AA, AB, AC, etc.
 
@@ -45,14 +44,10 @@ System codes follow MIL-W-5088L Appendix B. Codes used on N657CZ:
 | A | Avionics |
 | D | Data bus (CAN, ARINC 429, RS-232/422 — see [[Wire Marking Standard#Data Bus Wiring|electrical-wire-marking#data-bus-wiring]]) |
 | E | Engine Instrument |
-| F | Flight Instrument |
-| K | Engine Control |
+| G | Ground |
 | L | Lighting |
 | M | Miscellaneous Electrical |
 | P | DC Power (generation, distribution, battery) |
-| R | Radio and Navigation |
-| U | Miscellaneous Electronic |
-| W | Warning and Emergency |
 
 ## Wire Color Conventions
 
@@ -63,7 +58,6 @@ Wire insulation color follows system code where practical. Color coding is a vis
 | P | Power (DC) | Red |
 | G | Ground | Black |
 | L | Lighting | White |
-| R | Radio/Nav | Gray |
 | A | Avionics | Blue |
 
 Multi-conductor bundles may use different colors for individual conductors within the bundle. Always verify connections against the schematic.
@@ -80,7 +74,7 @@ Physical properties of the wire are not encoded in the label. They are recorded 
 
 ## Data Bus Wiring
 
-Data bus wiring uses system code **D**. The Circuit ID encodes bus type and link number. Data bus cables do not follow the single-wire color convention — cable type is determined by the applicable bus standard.
+Data bus wiring uses system code **D**. The Circuit ID encodes bus type and link number. Data bus cables do not follow the single-wire color convention — cable type is determined by the applicable bus standard. No D-prefix wires are currently installed; these circuit IDs are reserved for use when data bus cabling is added.
 
 ### Circuit ID Ranges
 
@@ -139,4 +133,4 @@ Markings must be visible and readable after installation.
 |----------|-----------|
 | MIL-STD-681E — *Identification Coding and Application of Hookup and Lead Wire* | Systems III and IV define functional coding by printed markings and coding of interconnecting wiring |
 | MIL-W-5088L — *Wiring, Aerospace Vehicle* | Appendix B defines circuit function letters (system codes) |
-| AC 43.13-1B, Chapter 11 — *Aircraft Electrical Systems* | FAA-accepted methods for wiring installation and identification (AC 43.13, ch11_p001) |
+| AC 43.13, Chapter 11 — *Aircraft Electrical Systems* | FAA-accepted methods for wiring installation and identification (AC 43.13, ch11_p001) |
