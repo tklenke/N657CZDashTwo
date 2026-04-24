@@ -1,7 +1,7 @@
 # Equipment List
 
-::: draft
-**DRAFT** — Not yet reviewed. Items marked TBD have not been weighed; update before using this list for W&B calculations.
+::: pending
+**PENDING** — 2026-04-23. Items marked TBD have not been weighed; update before using this list for W&B calculations.
 :::
 
 Installed equipment list for N657CZ. Weights are installed weights (unit + mounting hardware + connectors) where measured. Locations are from the KiCad electrical schematic component placement data (rev 4, 2026-04-23).
@@ -52,7 +52,7 @@ For CG calculations using this data, see [[W&B Calculation|wb-calculation]].
 | LRU11 | Autopilot Control Panel | GMC 507 | 0.7 | 37.7 | 22.0 | 1.9 |
 | LRU32 | Engine Information System | GEA 24 | 0.7 | 121.8 | 29.8 | 10.0 |
 | LRU24 | ARINC 429 Adapter | GAD 29 | 0.7 | 35.3 | 1.3 | 12.2 |
-| LRU27 | ADAHRS | GSU 25C | 0.5 | 24.3 | 3.4 | 5.0 |
+| LRU27 | ADAHRS | GSU 25 | 0.5 | 24.3 | 3.4 | 5.0 |
 | LRU25 | Magnetometer | GMU 11 | 0.2 | 166.0 | 16.0 | −62.0 |
 | LRU13 | Pitot Probe | Space Age Pitot | 0.25 | 3.9 | 11.3 | 2.3 |
 | LRU8 | Main Alt Voltage Regulator | LRE1B-14 | 0.6 | 123.0 | 34.4 | −1.0 |

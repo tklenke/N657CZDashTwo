@@ -1,7 +1,7 @@
 # Servicing
 
-::: draft
-**DRAFT** — Not yet reviewed.
+::: pending
+**PENDING** — 2026-04-23
 :::
 
 Scheduled servicing tasks and life-limited items for N657CZ. Complete all applicable tasks at or before their due date.
